@@ -22,25 +22,36 @@ Instructies:
 - Wees bemoedigend maar eerlijk
 - Gebruik af en toe korte puntsgewijze lijsten voor overzichtelijkheid`;
 
-  const res = await fetch("https://api.anthropic.com/v1/messages", {
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "x-api-key": apiKey,
-      "anthropic-version": "2023-06-01",
-    },
-    body: JSON.stringify({
-      model: "claude-sonnet-4-20250514",
-      max_tokens: 800,
-      system: systeemPrompt,
-      messages: messages.map((m: { role: string; content: string }) => ({
-        role: m.role,
-        content: m.content,
-      })),
-    }),
-  });
+  try {
+    const res = await fetch("https://api.anthropic.com/v1/messages", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "x-api-key": apiKey,
+        "anthropic-version": "2023-06-01",
+      },
+      body: JSON.stringify({
+        model: "claude-haiku-4-5-20251001",
+        max_tokens: 800,
+        system: systeemPrompt,
+        messages: messages.map((m: { role: string; content: string }) => ({
+          role: m.role,
+          content: m.content,
+        })),
+      }),
+    });
 
-  const data = await res.json();
-  const antwoord = data.content?.[0]?.text || "Er ging iets mis. Probeer het opnieuw.";
-  return NextResponse.json({ antwoord });
+    if (!res.ok) {
+      const fout = await res.text();
+      console.error("Anthropic API fout:", res.status, fout);
+      return NextResponse.json({ antwoord: `API-fout (${res.status}). Controleer de API-sleutel in Vercel.` });
+    }
+
+    const data = await res.json();
+    const antwoord = data.content?.[0]?.text || "Er ging iets mis. Probeer het opnieuw.";
+    return NextResponse.json({ antwoord });
+  } catch (err) {
+    console.error("Fetch fout:", err);
+    return NextResponse.json({ antwoord: "Verbindingsfout. Probeer het opnieuw." });
+  }
 }
