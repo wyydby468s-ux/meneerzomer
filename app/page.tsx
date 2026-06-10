@@ -1,19 +1,12 @@
 import Link from "next/link";
+import Header from "@/components/Header";
 import { vaardigheden } from "@/data/lessen";
 
 export default function Home() {
   return (
     <main className="min-h-screen">
-      {/* Header */}
-      <header className="bg-white border-b border-gray-200 px-6 py-4 flex items-center justify-between">
-        <span className="font-bold text-lg text-[#1a56a0]">Meneer Zomer</span>
-        <nav className="hidden md:flex gap-6 text-sm text-gray-600">
-          <Link href="/havo" className="hover:text-[#1a56a0]">HAVO</Link>
-          <Link href="/vwo" className="hover:text-[#1a56a0]">VWO</Link>
-        </nav>
-      </header>
+      <Header />
 
-      {/* Hero */}
       <section className="bg-gradient-to-br from-[#1a56a0] to-[#6c3fc5] text-white px-6 py-16 text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-4">Welkom bij Meneer Zomer</h1>
         <p className="text-lg md:text-xl text-blue-100 max-w-xl mx-auto mb-8">
@@ -30,7 +23,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* Uitleg blokken */}
       <section className="max-w-4xl mx-auto px-6 py-12">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mb-12">
           {[
@@ -46,7 +38,6 @@ export default function Home() {
           ))}
         </div>
 
-        {/* Vaardigheden */}
         <h2 className="text-2xl font-bold text-gray-800 mb-6 text-center">Waar wil je aan werken?</h2>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
           {vaardigheden.map((v) => (
@@ -60,7 +51,6 @@ export default function Home() {
         </div>
       </section>
 
-      {/* HAVO / VWO kaarten */}
       <section className="bg-white border-t border-gray-100 px-6 py-12">
         <div className="max-w-3xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-6">
           <Link href="/havo" className="block bg-[#e8f0fb] rounded-xl p-6 hover:shadow-md transition">

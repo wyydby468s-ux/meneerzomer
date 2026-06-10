@@ -2,6 +2,7 @@
 
 import { useState, useRef, useEffect } from "react";
 import Link from "next/link";
+import Image from "next/image";
 import { Les, Vraag, Niveau } from "@/data/lessen";
 import ReactMarkdown from "react-markdown";
 
@@ -93,8 +94,8 @@ export default function LesClient({ les }: Props) {
   return (
     <main className="min-h-screen bg-gray-50">
       {/* Header */}
-      <header className="bg-white border-b border-gray-200 px-6 py-4 flex items-center justify-between">
-        <Link href="/" className="font-bold text-lg text-[#1a56a0]">Meneer Zomer</Link>
+      <header className="bg-white border-b border-gray-200 px-6 py-3 flex items-center justify-between sticky top-0 z-50 shadow-sm">
+        <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition"><Image src="/logo.png" alt="logo" width={32} height={32} /><span className="font-bold text-[#1a56a0] hidden sm:block">Meneer Zomer</span></Link>
         <Link href={les.niveau === "vwo" ? "/vwo" : "/havo"}
           className="text-sm text-gray-500 hover:text-[#1a56a0]">
           ← Terug naar {les.niveau === "vwo" ? "VWO" : "HAVO"}

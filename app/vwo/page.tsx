@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Header from "@/components/Header";
 import { lessen, vaardigheden } from "@/data/lessen";
 
 export default function VwoPage() {
@@ -6,13 +7,7 @@ export default function VwoPage() {
 
   return (
     <main className="min-h-screen">
-      <header className="bg-white border-b border-gray-200 px-6 py-4 flex items-center justify-between">
-        <Link href="/" className="font-bold text-lg text-[#1a56a0]">Meneer Zomer</Link>
-        <nav className="hidden md:flex gap-6 text-sm text-gray-600">
-          <Link href="/havo" className="hover:text-[#1a56a0]">HAVO</Link>
-          <Link href="/vwo" className="text-[#6c3fc5] font-semibold">VWO</Link>
-        </nav>
-      </header>
+      <Header activePage="vwo" />
 
       <section className="bg-gradient-to-br from-[#6c3fc5] to-[#4f46e5] text-white px-6 py-12 text-center">
         <div className="text-sm font-medium text-purple-200 mb-2">🎓 VWO 4, 5 en 6</div>
@@ -57,7 +52,7 @@ export default function VwoPage() {
       </section>
 
       <footer className="text-center text-xs text-gray-400 py-6 border-t">
-        © {new Date().getFullYear()} Meneer Zomer · <Link href="/" className="hover:underline">Terug naar home</Link>
+        © {new Date().getFullYear()} Meneer Zomer
       </footer>
     </main>
   );
