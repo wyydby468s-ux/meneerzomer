@@ -199,6 +199,97 @@ Aanpak: Neem altijd een duidelijk standpunt in en onderbouw met tekstevidentiee.
     ],
   },
 
+  {
+    slug: "leesvaardigheid-vwo-analyse",
+    titel: "Tekstanalyse op VWO-niveau",
+    ondertitel: "Argumentatiestructuur, impliciete boodschappen en perspectief",
+    niveau: "vwo",
+    vaardigheid: "Leesvaardigheid",
+    emoji: "🔬",
+    leerdoelen: [
+      "Je kunt de argumentatiestructuur van een complexe tekst in kaart brengen",
+      "Je kunt impliciete boodschappen en veronderstellingen herkennen",
+      "Je kunt het perspectief van de schrijver bepalen en de invloed ervan op de tekst analyseren",
+    ],
+    uitleg: `## Tekstanalyse op VWO-niveau
+
+Op VWO moet je ook analyseren hoe de tekst werkt en waarom de schrijver bepaalde keuzes heeft gemaakt.
+
+### Argumentatiestructuur
+
+**Enkelvoudige argumentatie**: een argument ondersteunt de conclusie.
+**Nevenschikkende argumentatie**: meerdere argumenten ondersteunen samen de conclusie.
+**Onderschikkende argumentatie**: een argument wordt zelf weer onderbouwd door een sub-argument.
+
+### Impliciete veronderstellingen
+
+Schrijvers gaan uit van aannames die ze niet noemen. Voorbeeld: 'Als je slim bent, ga je studeren.' Impliciete veronderstelling: studeren is iets wat slimme mensen doen.
+
+### Perspectief herkennen
+
+Let op woordkeuze (bijv. 'bezettingsleger' vs 'vredesmacht'), selectie van feiten en de toon van de tekst.
+
+### Retorische middelen
+
+Retorische vraag, herhaling, contrast en opsomming zijn middelen om de lezer te beinvloeden.`,
+    vragen: [
+      { id: "vwo-lv-1", niveau: "reproductie", vraag: "Wat is nevenschikkende argumentatie?", opties: ["Een argument dat de conclusie ondersteunt", "Meerdere argumenten die samen de conclusie ondersteunen", "Een argument onderbouwd door een sub-argument", "Een conclusie die door een voorbeeld wordt geïllustreerd"], antwoord: 1, uitleg: "Bij nevenschikkende argumentatie werken meerdere argumenten samen. Elk argument is op zichzelf onvoldoende." },
+      { id: "vwo-lv-2", niveau: "reproductie", vraag: "Wat is een impliciete veronderstelling?", opties: ["Een expliciet uitgesproken conclusie", "Een aanname die de schrijver niet noemt maar wel als vanzelfsprekend beschouwt", "Een deskundigenargument", "Een retorisch middel"], antwoord: 1, uitleg: "Een impliciete veronderstelling is iets wat de schrijver aanneemt zonder het te zeggen. Het ligt verborgen achter het argument en is vaak aanvechtbaar." },
+      { id: "vwo-lv-3", niveau: "reproductie", vraag: "Wat is een retorische vraag?", opties: ["Een vraag waarop de lezer moet antwoorden", "Een vraag gesteld zonder dat een antwoord wordt verwacht", "Een vraag aan het begin van een betoog", "Een vraag die de tekststructuur aangeeft"], antwoord: 1, uitleg: "Een retorische vraag verwacht geen antwoord. Het antwoord is al verondersteld of voor de hand liggend." },
+      { id: "vwo-lv-4", niveau: "toepassing", vraag: "Een schrijver gebruikt 'bezettingsleger' in plaats van 'vredesmacht'. Wat onthult dit?", opties: ["Niets, beide termen betekenen hetzelfde", "Het perspectief van de schrijver: hij beoordeelt de aanwezigheid van het leger negatief", "De schrijver maakt een feitelijke fout", "De schrijver wil neutraal blijven"], antwoord: 1, uitleg: "Woordkeuze onthult perspectief. 'Bezettingsleger' heeft een negatieve connotatie en suggereert dat de schrijver de aanwezigheid als onrechtmatig beschouwt." },
+      { id: "vwo-lv-5", niveau: "toepassing", vraag: "'Jongeren moeten meer bewegen, want sport is goed voor de gezondheid.' Welke impliciete veronderstelling zit hierin?", opties: ["Jongeren bewegen te weinig", "Sport is de enige manier om te bewegen", "Gezondheid is het enige dat telt", "Jongeren willen niet bewegen"], antwoord: 0, uitleg: "Het argument veronderstelt impliciet dat jongeren te weinig bewegen. Zonder deze aanname is er geen reden om hen aan te sporen." },
+      { id: "vwo-lv-6", niveau: "toepassing", vraag: "Een tekst heeft de structuur: 'A omdat B, en B omdat C'. Welk type argumentatie is dit?", opties: ["Nevenschikkende argumentatie", "Onderschikkende argumentatie", "Enkelvoudige argumentatie", "Cirkelredenering"], antwoord: 1, uitleg: "Onderschikkende argumentatie: A wordt onderbouwd door B, B wordt onderbouwd door C. Er is een hiërarchie van argumenten." },
+      { id: "vwo-lv-7", niveau: "inzicht", vraag: "Waarom is het herkennen van impliciete veronderstellingen belangrijk?", opties: ["Impliciete veronderstellingen zijn altijd onjuist", "Een argument is alleen zo sterk als zijn veronderstellingen: klopt een veronderstelling niet, dan ondermijnt dat het argument", "Je moet bij het examen altijd het aantal veronderstellingen noemen", "Impliciete veronderstellingen bewijzen dat de schrijver iets verbergt"], antwoord: 1, uitleg: "Als de veronderstellingen onder een argument niet kloppen, is het argument zwakker dan het lijkt. Kritisch lezen betekent ook de veronderstellingen onderzoeken." },
+      { id: "vwo-lv-8", niveau: "inzicht", vraag: "Een opinietekst noemt alleen studies die het standpunt ondersteunen. Welk probleem heeft deze tekst?", opties: ["De tekst is te lang", "De tekst is eenzijdig: selectief citeren geeft een vertekend beeld", "De tekst gebruikt te veel deskundigenargumenten", "De tekst heeft geen conclusie"], antwoord: 1, uitleg: "Selectief citeren is een vorm van vertekening. De schrijver wekt de indruk dat er consensus bestaat terwijl die er misschien niet is." },
+    ],
+  },
+  {
+    slug: "leesvaardigheid-vwo-samenvatten",
+    titel: "Samenvatten en parafraseren op VWO-niveau",
+    ondertitel: "Hoofd- en bijzaken onderscheiden in complexe teksten",
+    niveau: "vwo",
+    vaardigheid: "Leesvaardigheid",
+    emoji: "📝",
+    leerdoelen: [
+      "Je kunt de hoofdgedachte van een complexe tekst formuleren",
+      "Je kunt hoofd- en bijzaken van elkaar onderscheiden",
+      "Je kunt een tekst nauwkeurig parafraseren zonder de betekenis te verliezen",
+    ],
+    uitleg: `## Samenvatten en parafraseren op VWO-niveau
+
+### Hoofdgedachte formuleren
+
+De hoofdgedachte is de centrale boodschap van de hele tekst, geformuleerd als uitspraak.
+- Fout: "De tekst gaat over klimaatverandering"
+- Goed: "De schrijver betoogt dat individuele maatregelen onvoldoende zijn om klimaatverandering tegen te gaan"
+
+### Hoofd- en bijzaken
+
+Hoofdzaken dragen direct bij aan de centrale boodschap. Bijzaken zijn voorbeelden, uitwerkingen en illustraties. De hoofdzaak staat vaak in de eerste of laatste zin van een alinea.
+
+### Nauwkeurig parafraseren
+
+Valkuilen:
+- Te veel weglaten: de betekenis verandert
+- Te dicht bij het origineel blijven: dat is geen parafrase
+- Eigen interpretatie toevoegen: dat is meer dan parafraseren
+
+### Stappenplan
+
+1. Lees de tekst globaal
+2. Bepaal de hoofdgedachte
+3. Noteer de kernzin per alinea
+4. Schrijf in eigen woorden
+5. Controleer op volledigheid`,
+    vragen: [
+      { id: "vwo-sv-1", niveau: "reproductie", vraag: "Wat is het verschil tussen een hoofdzaak en een bijzaak?", opties: ["Hoofdzaken staan altijd in de eerste alinea", "Hoofdzaken dragen direct bij aan de centrale boodschap, bijzaken zijn voorbeelden of uitwerkingen", "Hoofdzaken zijn feiten, bijzaken zijn meningen", "Hoofdzaken zijn langer dan bijzaken"], antwoord: 1, uitleg: "Een hoofdzaak is essentieel voor de centrale boodschap. Bijzaken zijn ondersteunend en kun je weglaten zonder de kern te verliezen." },
+      { id: "vwo-sv-2", niveau: "reproductie", vraag: "Wat is de hoofdgedachte van een tekst?", opties: ["Het onderwerp van de tekst", "De centrale boodschap geformuleerd als uitspraak", "De eerste zin van de inleiding", "Een opsomming van alle argumenten"], antwoord: 1, uitleg: "De hoofdgedachte is meer dan het onderwerp. Het is een volledige uitspraak die de kern van de tekst weergeeft." },
+      { id: "vwo-sv-3", niveau: "toepassing", vraag: "'De minister zei dat het beleid succesvol was' wordt geparafraseerd als 'De minister beweerde dat zijn plannen werkten'. Wat verandert er?", opties: ["Niets, het is een correcte parafrase", "'Beweerde' suggereert twijfel, terwijl 'zei' neutraal is", "'Plannen' is specifieker dan 'beleid'", "De parafrase is te kort"], antwoord: 1, uitleg: "'Zeggen' is neutraal, 'beweren' impliceert dat de spreker iets stelt dat misschien niet waar is. Dit is een subtiele maar belangrijke betekenisverschuiving." },
+      { id: "vwo-sv-4", niveau: "toepassing", vraag: "Welke formulering is de beste hoofdgedachte voor een tekst over nadelen van schermtijd bij kinderen?", opties: ["Schermtijd bij kinderen", "Kinderen kijken te veel naar schermen", "Overmatige schermtijd heeft aantoonbare negatieve effecten op de cognitieve en sociale ontwikkeling van jonge kinderen", "In dit artikel worden de nadelen van schermtijd besproken"], antwoord: 2, uitleg: "Een goede hoofdgedachte is concreet en geformuleerd als uitspraak. Optie C doet dit: het is specifiek en bevat de centrale claim." },
+      { id: "vwo-sv-5", niveau: "inzicht", vraag: "Waarom mag je bij samenvatten geen eigen interpretatie toevoegen?", opties: ["Eigen interpretaties zijn altijd onjuist", "Een samenvatting geeft de tekst weer zoals de schrijver het bedoelde, niet zoals jij het interpreteert", "Eigen interpretaties zijn te lang", "De examinator denkt dan dat je de tekst niet hebt begrepen"], antwoord: 1, uitleg: "Een samenvatting is een getrouwe weergave van het origineel. Eigen interpretaties toevoegen betekent dat je je eigen versie geeft in plaats van die van de schrijver." },
+    ],
+  },
+
   // =====================
   // SCHRIJFVAARDIGHEID
   // =====================
