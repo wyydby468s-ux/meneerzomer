@@ -68,6 +68,7 @@ Let op de volgende signalen:
 ### Tip voor het examen
 
 Op het HAVO-examen wordt je gevraagd het tekstdoel te benoemen en te onderbouwen. Noem altijd een concreet voorbeeld uit de tekst als bewijs.`,
+    youtubeId: "6gBCD5EuayU",
     vragen: [
       { id: "td-1", niveau: "reproductie", vraag: "Welk tekstdoel heeft een tekst die de lezer wil overtuigen een bepaald standpunt over te nemen?", opties: ["Informeren", "Overtuigen", "Instrueren", "Activeren"], antwoord: 1, uitleg: "Een tekst die de lezer een standpunt wil laten overnemen heeft als doel overtuigen. De schrijver gebruikt daarvoor argumenten." },
       { id: "td-2", niveau: "reproductie", vraag: "Een recept in een kookboek heeft als tekstdoel...", opties: ["Informeren", "Overtuigen", "Instrueren", "Activeren"], antwoord: 2, uitleg: "Een recept legt uit hoe je iets moet maken. De lezer wordt stap voor stap begeleid. Dat is instrueren." },
