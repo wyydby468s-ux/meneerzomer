@@ -41,7 +41,7 @@ export default function Home() {
         <h2 className="text-2xl font-bold text-gray-800 mb-6 text-center">Waar wil je aan werken?</h2>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
           {vaardigheden.map((v) => (
-            <Link key={v.slug} href={`/havo#${v.slug}`}
+            <Link key={v.slug} href={`/vaardigheid/${v.slug}`}
               className="bg-white rounded-xl p-5 shadow-sm border border-gray-100 hover:border-[#1a56a0] hover:shadow-md transition group">
               <div className="text-3xl mb-2">{v.emoji}</div>
               <div className="font-semibold text-gray-800 group-hover:text-[#1a56a0] transition">{v.naam}</div>
