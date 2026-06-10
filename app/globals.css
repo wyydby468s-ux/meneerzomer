@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+:root {
+  --blauw: #1a56a0;
+  --blauw-licht: #e8f0fb;
+  --paars: #6c3fc5;
+  --groen: #16a34a;
+  --oranje: #ea580c;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+.prose h2 { @apply text-xl font-bold mt-6 mb-3 text-gray-800; }
+.prose h3 { @apply text-lg font-semibold mt-5 mb-2 text-gray-700; }
+.prose p { @apply mb-3 text-gray-700 leading-relaxed; }
+.prose ul { @apply list-disc pl-5 mb-3 space-y-1; }
+.prose li { @apply text-gray-700; }
+.prose strong { @apply font-semibold text-gray-800; }
