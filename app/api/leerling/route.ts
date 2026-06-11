@@ -1,8 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-
-// Tijdelijke in-memory store (wordt vervangen door Vercel KV)
-// Voor productie: gebruik VERCEL_KV_REST_API_URL en VERCEL_KV_REST_API_TOKEN
-const store = new Map<string, unknown>();
+import { kv_get, kv_set, kv_exists, kv_smembers, kv_sadd } from "@/lib/redis";
 
 export async function POST(req: NextRequest) {
   try {
@@ -10,23 +7,18 @@ export async function POST(req: NextRequest) {
 
     if (actie === "registreer") {
       const { gebruikersnaam, klasCode } = data;
-      
-      // Controleer of gebruikersnaam al bestaat
-      const bestaand = store.get(`leerling:naam:${gebruikersnaam.toLowerCase()}`);
-      if (bestaand) {
-        return NextResponse.json({ succes: false, fout: "Deze gebruikersnaam is al bezet." });
-      }
+      const naamKey = `leerling:naam:${gebruikersnaam.toLowerCase()}`;
+      const klasKey = `klas:${klasCode.toUpperCase()}`;
 
-      // Controleer of klas bestaat
-      const klas = store.get(`klas:${klasCode.toUpperCase()}`);
-      if (!klas) {
-        return NextResponse.json({ succes: false, fout: "Ongeldige klascode. Vraag je docent om de juiste code." });
-      }
+      const bestaand = await kv_exists(naamKey);
+      if (bestaand) return NextResponse.json({ succes: false, fout: "Deze gebruikersnaam is al bezet." });
+
+      const klas = await kv_get(klasKey);
+      if (!klas) return NextResponse.json({ succes: false, fout: "Ongeldige klascode. Vraag je docent om de juiste code." });
 
       const id = `ll_${Date.now()}_${Math.random().toString(36).slice(2, 8)}`;
       const leerling = {
-        id,
-        gebruikersnaam,
+        id, gebruikersnaam,
         klasCode: klasCode.toUpperCase(),
         aangemeldOp: new Date().toISOString(),
         startniveau: null,
@@ -34,45 +26,45 @@ export async function POST(req: NextRequest) {
         huidigNiveau: "beginner",
       };
 
-      store.set(`leerling:${id}`, leerling);
-      store.set(`leerling:naam:${gebruikersnaam.toLowerCase()}`, id);
+      await kv_set(`leerling:${id}`, leerling);
+      await kv_set(naamKey, id);
+      await kv_sadd(`klas:leerlingen:${klasCode.toUpperCase()}`, id);
 
       return NextResponse.json({ succes: true, leerling });
     }
 
     if (actie === "login") {
       const { gebruikersnaam } = data;
-      const id = store.get(`leerling:naam:${gebruikersnaam.toLowerCase()}`);
-      if (!id) {
-        return NextResponse.json({ succes: false, fout: "Gebruikersnaam niet gevonden." });
-      }
-      const leerling = store.get(`leerling:${id}`);
+      const id = await kv_get(`leerling:naam:${gebruikersnaam.toLowerCase()}`);
+      if (!id) return NextResponse.json({ succes: false, fout: "Gebruikersnaam niet gevonden." });
+      const leerling = await kv_get(`leerling:${id}`);
       return NextResponse.json({ succes: true, leerling });
     }
 
     if (actie === "updateNiveau") {
       const { leerlingId, nieuwNiveau, diagnostisch } = data;
-      const leerling = store.get(`leerling:${leerlingId}`) as Record<string, unknown>;
+      const leerling = await kv_get(`leerling:${leerlingId}`) as Record<string, unknown>;
       if (!leerling) return NextResponse.json({ succes: false, fout: "Leerling niet gevonden." });
-      
+
       leerling.huidigNiveau = nieuwNiveau;
       if (diagnostisch && !leerling.diagnostischGedaan) {
         leerling.startniveau = nieuwNiveau;
         leerling.diagnostischGedaan = true;
       }
-      store.set(`leerling:${leerlingId}`, leerling);
+      await kv_set(`leerling:${leerlingId}`, leerling);
       return NextResponse.json({ succes: true, leerling });
     }
 
     if (actie === "slaVoortgangOp") {
       const { leerlingId, moduleSlug, score, totaal, niveau, tijdBesteed, foutieveVragen } = data;
       const key = `voortgang:${leerlingId}:${moduleSlug}`;
-      const bestaand = (store.get(key) as { pogingen: unknown[] }) || { pogingen: [] };
+      const bestaand = (await kv_get(key) as { pogingen: unknown[] }) || { pogingen: [] };
       bestaand.pogingen.push({
         score, totaal, niveau, tijdBesteed, foutieveVragen,
         tijdstip: new Date().toISOString(),
       });
-      store.set(key, bestaand);
+      await kv_set(key, bestaand);
+      await kv_sadd(`leerling:modules:${leerlingId}`, moduleSlug);
       return NextResponse.json({ succes: true });
     }
 
@@ -88,14 +80,14 @@ export async function GET(req: NextRequest) {
 
   if (actie === "voortgang") {
     const leerlingId = searchParams.get("leerlingId");
-    const resultaten: Record<string, unknown>[] = [];
-    store.forEach((waarde, sleutel) => {
-      if (sleutel.startsWith(`voortgang:${leerlingId}:`)) {
-        const moduleSlug = sleutel.split(":")[2];
-        resultaten.push({ moduleSlug, ...(waarde as object) });
-      }
-    });
-    return NextResponse.json({ succes: true, voortgang: resultaten });
+    const moduleSlugs = await kv_smembers(`leerling:modules:${leerlingId}`);
+    const resultaten = await Promise.all(
+      moduleSlugs.map(async (slug) => {
+        const data = await kv_get(`voortgang:${leerlingId}:${slug}`);
+        return data ? { moduleSlug: slug, ...(data as object) } : null;
+      })
+    );
+    return NextResponse.json({ succes: true, voortgang: resultaten.filter(Boolean) });
   }
 
   return NextResponse.json({ succes: false, fout: "Onbekende actie." });
