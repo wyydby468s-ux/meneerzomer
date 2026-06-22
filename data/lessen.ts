@@ -557,44 +557,101 @@ Als je een drogreden moet benoemen, geef dan altijd aan:
       "Je kunt een personage analyseren op karakter en ontwikkeling",
       "Je kunt het vertelperspectief bepalen en de functie ervan uitleggen",
     ],
-    uitleg: `## Literaire analyse
+    uitleg: `## Literatuuranalyse: de vijf bouwstenen
 
-Een literaire analyse gaat verder dan navertellen. Je onderzoekt hoe een tekst in elkaar zit en waarom de schrijver bepaalde keuzes heeft gemaakt.
+Op deze pagina leer je hoe je een literair boek analyseert. Je gaat een boek niet alleen lezen, maar ook begrijpen: hoe zit het in elkaar en wat wil de schrijver eigenlijk zeggen? Je werkt met vijf clusters van begrippen.
 
-### Thema
+Belangrijk om te onthouden: bij literatuur draait alles om **samenhang**. De vijf clusters staan niet los van elkaar. Het perspectief hangt samen met de personages, de ruimte versterkt het thema, de symboliek wijst je naar de idee.
 
-Het thema is de centrale gedachte of boodschap van een werk. Het is abstracter dan het onderwerp.
+### Twee lagen in een verhaal
 
-- **Onderwerp**: waar gaat het over? (bijv. de Tweede Wereldoorlog)
-- **Thema**: wat wil de auteur zeggen? (bijv. hoe gewone mensen tot gruweldaden komen)
+Als je een boek leest voor je plezier, concentreer je je op de eerste laag: het verhaal zelf. Bij analyseren kijk je naar de tweede laag: hoe is het verhaal opgebouwd en wat betekent het?
 
-Een thema formuleer je als een uitspraak, niet als een woord.
+Een literair boek is iets anders dan lectuur (pulp). Lectuur heeft eenvoudige zinnen, voorspelbare personages en een duidelijke afloop. Literatuur stelt vragen, speelt met tijd en perspectief, en laat je nadenken.
 
-Niet: "het thema is liefde"
-Wel: "het thema is hoe liefde mensen kan verblinden voor de realiteit"
+### Cluster 1: Personages
 
-### Personageanalyse
+Personages brengen een verhaal tot leven. Bij dit cluster onderzoek je wie er in het boek voorkomen, hoe je ze leert kennen en welke rol ze spelen.
 
-Bij een personage kijk je naar:
-- **Karakterisering**: hoe wordt het personage beschreven? (direct door de verteller, indirect via gedrag/dialoog)
-- **Ontwikkeling**: verandert het personage in de loop van het verhaal?
-- **Functie**: welke rol speelt het personage in het geheel?
+**Round en flat characters**
+- **Round character (karakter):** een uitgewerkt personage dat een ontwikkeling doormaakt. De meeste hoofdpersonen zijn round characters.
+- **Flat character (type):** een personage dat je alleen oppervlakkig leert kennen. De meeste bijpersonen zijn flat characters.
 
-### Vertelperspectief
+**Hoe leer je een personage kennen?**
+Via vier kanalen: het **uiterlijk**, het **innerlijk**, het **gedrag** en de **uitspraken**. Let ook op een eventuele speaking name.
 
-**Ik-perspectief (intern)**: de verteller is een personage in het verhaal.
-Functie: creëert betrokkenheid, maar geeft een beperkt en subjectief beeld.
+**De antiheld**
+Een antiheld is een hoofdpersoon die je niet uitnodigt tot identificatie. Toch maakt dat zo een personage vaak juist menselijker en interessanter.
 
-**Hij/zij-perspectief (extern)**:
-- *Alwetend*: de verteller weet alles, ook de gedachten van personages.
-- *Beperkt*: de verteller volgt één personage maar weet niet alles.
+Voorbeeld: In *Wees onzichtbaar* van Murat Isik is Metin een round character die zich ontwikkelt van een bang jongetje tot iemand die zijn eigen weg vindt.
 
-### Literaire begrippen
+### Cluster 2: Tijd
 
-- **Tijdsperspectief**: hoe verhoudt de verteltime zich tot de verhaaltime?
-- **Flashback**: terugblik op eerder gebeurde events
-- **Cliffhanger**: spannend einde van een hoofdstuk
-- **Symboliek**: objecten of figuren die een diepere betekenis hebben`,
+**Verteltijd en vertelde tijd**
+- **Vertelde tijd:** de hoeveelheid tijd die in het verhaal verloopt.
+- **Verteltijd:** de tijd die de schrijver nodig heeft om het te vertellen.
+
+**Versnelling en vertraging**
+- **Versnelling (tijdverdichting):** veel vertelde tijd in weinig verteltijd. Jaren in een paar zinnen (telling).
+- **Vertraging:** weinig vertelde tijd in veel verteltijd. Een moment over meerdere bladzijden (scene/showing).
+- **Tijdsprong:** de schrijver slaat een periode over.
+
+**Chronologie**
+- **Chronologisch:** gebeurtenissen in volgorde van tijd.
+- **Niet-chronologisch:** de volgorde wordt doorbroken.
+- **Flashback:** teruggang naar een eerder moment.
+- **Flashforward:** vooruitblik naar iets wat nog gaat gebeuren.
+
+### Cluster 3: Perspectief
+
+**Ik-perspectief (intern):** de verteller is zelf een personage. Je ziet alles door zijn ogen. Sterk betrokken maar beperkt en subjectief.
+
+**Hij/zij-perspectief (extern):**
+- *Alwetende verteller:* weet alles, ook de gedachten van alle personages.
+- *Beperkt perspectief:* volgt één personage maar weet niet alles.
+
+**Onbetrouwbare verteller:** een verteller die een vertekend beeld geeft. De lezer moet zelf bepalen wat er echt is gebeurd.
+
+### Cluster 4: Titel, genre en ruimte
+
+**Titelverklaring**
+Een titel heeft altijd een letterlijke en een figuurlijke betekenis. De figuurlijke hangt samen met het thema.
+
+**Genre**
+Voorbeelden: ontwikkelingsroman, historische roman, psychologische roman. Een boek kan bij meerdere genres passen.
+
+**Ruimte**
+- **Sfeerscheppende ruimte:** de omgeving roept een sfeer op.
+- **Symbolische ruimte:** de ruimte staat voor het gevoel van een personage.
+- **Overeenkomst of contrast:** past de ruimte bij de handeling of botst hij ermee?
+
+Voorbeeld: In *Nooit meer slapen* van Hermans versterkt het lege noorden van Noorwegen de eenzaamheid van de hoofdpersoon.
+
+### Cluster 5: Thema, idee, symboliek en motieven
+
+**Thema**
+Het thema is waar het boek in de kern over gaat, algemeen verwoord. Niet: de belevenissen van een jongetje in de oorlog, maar: oorlog. Zie het thema als een kapstok.
+
+**Idee**
+De idee is wat de schrijver over dat thema te zeggen heeft. Voorbeeld: thema = pesten; idee = pesten kan desastreuze gevolgen hebben.
+
+**Symboliek**
+Een symbool heeft een tweede, diepere betekenis. Je herkent het doordat het meerdere keren terugkomt. Let op herhalingen: kleuren, voorwerpen, het weer.
+
+Voorbeeld: In *De aanslag* van Harry Mulisch keren dobbelstenen terug als symbool voor het toeval dat het leven bepaalt.
+
+**Motieven**
+- **Leidmotief:** een concreet, tastbaar element dat steeds terugkeert.
+- **Abstract motief:** een terugkerend, niet-tastbaar gegeven zoals liefde of schuld.
+
+### Samenhang: het geheim van een goede analyse
+
+Een sterke analyse legt verbanden tussen de clusters:
+- Een ik-perspectief (cluster 3) maakt dat je je sterk inleeft in de hoofdpersoon (cluster 1).
+- Een sombere ruimte (cluster 4) versterkt een thema als eenzaamheid (cluster 5).
+- Een niet-chronologische opbouw (cluster 2) kan de idee onderstrepen dat het verleden je blijft achtervolgen (cluster 5).
+
+Hoe meer verbanden je ziet, hoe hoger je analyse-niveau.`,
     vragen: [
       { id: "la-1", niveau: "reproductie", vraag: "Wat is het verschil tussen onderwerp en thema?", opties: ["Er is geen verschil, het zijn synoniemen", "Het onderwerp is concreet (waar gaat het over), het thema is de abstracte boodschap", "Het thema is concreet, het onderwerp is abstract", "Het onderwerp gaat over personages, het thema over de plot"], antwoord: 1, uitleg: "Het onderwerp is het concrete gegeven (bijv. een oorlog), het thema is de diepere boodschap die de auteur overbrengt (bijv. over menselijke wreedheid)." },
       { id: "la-2", niveau: "reproductie", vraag: "Wat is het kenmerk van een alwetende verteller?", opties: ["De verteller is zelf een personage in het verhaal", "De verteller weet alles, inclusief de gedachten en gevoelens van alle personages", "De verteller vertelt alleen wat hij zelf heeft meegemaakt", "De verteller is anoniem en heeft geen naam"], antwoord: 1, uitleg: "Een alwetende verteller staat buiten het verhaal en heeft toegang tot de gedachten en gevoelens van alle personages. Dit geeft een breed perspectief." },
