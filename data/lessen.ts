@@ -720,7 +720,7 @@ Een sterke analyse legt verbanden:
 - Een sombere ruimte versterkt een thema als eenzaamheid.
 - Een niet-chronologische opbouw kan de idee onderstrepen dat het verleden je blijft achtervolgen.
 
-Hoe meer verbanden je ziet en kunt uitleggen, hoe hoger je cijfer.``,
+Hoe meer verbanden je ziet en kunt uitleggen, hoe hoger je cijfer.`,
     vragen: [
       { id: "la-1", niveau: "reproductie", vraag: "Wat is het verschil tussen onderwerp en thema?", opties: ["Er is geen verschil, het zijn synoniemen", "Het onderwerp is concreet (waar gaat het over), het thema is de abstracte boodschap", "Het thema is concreet, het onderwerp is abstract", "Het onderwerp gaat over personages, het thema over de plot"], antwoord: 1, uitleg: "Het onderwerp is het concrete gegeven (bijv. een oorlog), het thema is de diepere boodschap die de auteur overbrengt (bijv. over menselijke wreedheid)." },
       { id: "la-2", niveau: "reproductie", vraag: "Wat is het kenmerk van een alwetende verteller?", opties: ["De verteller is zelf een personage in het verhaal", "De verteller weet alles, inclusief de gedachten en gevoelens van alle personages", "De verteller vertelt alleen wat hij zelf heeft meegemaakt", "De verteller is anoniem en heeft geen naam"], antwoord: 1, uitleg: "Een alwetende verteller staat buiten het verhaal en heeft toegang tot de gedachten en gevoelens van alle personages. Dit geeft een breed perspectief." },
