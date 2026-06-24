@@ -557,11 +557,11 @@ Als je een drogreden moet benoemen, geef dan altijd aan:
       "Je kunt een personage analyseren op karakter en ontwikkeling",
       "Je kunt het vertelperspectief bepalen en de functie ervan uitleggen",
     ],
-    uitleg: `## Literatuuranalyse: de vijf bouwstenen
+    uitleg: `## Literatuuranalyse: alle begrippen op een rij
 
-Op deze pagina leer je hoe je een literair boek analyseert. Je gaat een boek niet alleen lezen, maar ook begrijpen: hoe zit het in elkaar en wat wil de schrijver eigenlijk zeggen? Je werkt met vijf clusters van begrippen.
+Op deze pagina leer je hoe je een literair boek analyseert. Je gaat een boek niet alleen lezen, maar ook begrijpen: hoe zit het in elkaar en wat wil de schrijver eigenlijk zeggen?
 
-Belangrijk om te onthouden: bij literatuur draait alles om **samenhang**. De vijf clusters staan niet los van elkaar. Het perspectief hangt samen met de personages, de ruimte versterkt het thema, de symboliek wijst je naar de idee.
+Belangrijk om te onthouden: bij literatuur draait alles om **samenhang**. De begrippen staan niet los van elkaar. Het perspectief hangt samen met de personages, de ruimte versterkt het thema, de symboliek wijst je naar de idee. Zie het thema als een kapstok waar je alle andere begrippen aan ophangt.
 
 ### Twee lagen in een verhaal
 
@@ -569,89 +569,158 @@ Als je een boek leest voor je plezier, concentreer je je op de eerste laag: het 
 
 Een literair boek is iets anders dan lectuur (pulp). Lectuur heeft eenvoudige zinnen, voorspelbare personages en een duidelijke afloop. Literatuur stelt vragen, speelt met tijd en perspectief, en laat je nadenken.
 
-### Cluster 1: Personages
+**Mag je internet en AI gebruiken?** Je mag secundaire literatuur gebruiken: literatuur over literatuur, geschreven door experts. Internet is verleidelijk, maar daar staan vooral boekverslagen van andere scholieren. Gebruik je een bron, vermeld die dan altijd.
 
-Personages brengen een verhaal tot leven. Bij dit cluster onderzoek je wie er in het boek voorkomen, hoe je ze leert kennen en welke rol ze spelen.
+---
+
+### 1. Nauwkeurige titelbeschrijving
+
+De titelbeschrijving is het visitekaartje van je verslag en moet exact kloppen. Zet de gegevens in deze volgorde: achternaam en voornaam van de schrijver, titel, eventuele ondertitel, plaats van uitgave, jaar van de door jou gelezen druk, en het jaar van de eerste druk tussen haakjes.
+
+---
+
+### 2. Motto
+
+Een motto is een kort citaat dat voorin een boek staat. De schrijver kiest het omdat de gedachte erin past bij het thema en de idee. Neem het motto over in je verslag en verklaar wat het met het boek te maken heeft.
+
+---
+
+### 3. Opdracht
+
+Soms staat voorin een boek een opdracht: het boek is dan gericht aan iemand. Zo'n opdracht zegt pas iets als je weet wie ermee bedoeld wordt. Noteer de opdracht en probeer te achterhalen wie bedoeld wordt.
+
+---
+
+### 4. Korte samenvatting
+
+De samenvatting is een geheugensteuntje. Houd het bij de hoofdlijnen: alleen wat inzicht geeft in het thema en de idee. Schrijf de samenvatting nooit terwijl je nog leest, maar achteraf.
+
+---
+
+### 5. Thema
+
+Het thema is waar het boek in de kern over gaat, algemeen verwoord. Niet: "de belevenissen van een jongetje in de oorlog" maar: "oorlog". Naast het hoofdthema kan een boek subthema's hebben. Leg altijd uit waarom je voor een bepaald thema kiest.
+
+---
+
+### 6. Idee
+
+De idee is wat de schrijver over dat thema te zeggen heeft. In modernere literatuur stelt de schrijver vaak juist vragen, zonder een helder antwoord te geven.
+
+Voorbeeld: thema = "pesten"; idee = "pesten kan desastreuze gevolgen hebben". Het thema is algemeen; de idee is wat de schrijver erover wil overbrengen.
+
+---
+
+### 7. Titelverklaring
+
+De titel zegt vaak iets over het thema. Zoek altijd verder dan de meest voor de hand liggende verklaring: een titel heeft regelmatig meerdere betekenissen.
+
+Voorbeeld: De titel *De val* van Marga Minco verwijst zowel naar een letterlijke val als naar de hinderlaag waarin haar gezin loopt door een verrader. Een woord, meerdere lagen, allemaal verbonden met het thema.
+
+---
+
+### 8. Personages
+
+Personages brengen een verhaal tot leven. De hoofdpersoon is de belangrijkste figuur. Let ook op de relaties tussen personages: wie is familie, vriend, tegenstander of helper?
 
 **Round en flat characters**
 - **Round character (karakter):** een uitgewerkt personage dat een ontwikkeling doormaakt. De meeste hoofdpersonen zijn round characters.
 - **Flat character (type):** een personage dat je alleen oppervlakkig leert kennen. De meeste bijpersonen zijn flat characters.
 
-**Hoe leer je een personage kennen?**
-Via vier kanalen: het **uiterlijk**, het **innerlijk**, het **gedrag** en de **uitspraken**. Let ook op een eventuele speaking name.
-
-**De antiheld**
-Een antiheld is een hoofdpersoon die je niet uitnodigt tot identificatie. Toch maakt dat zo een personage vaak juist menselijker en interessanter.
+Je leert een personage kennen via vier kanalen: het **uiterlijk**, het **innerlijk**, het **gedrag** en de **uitspraken**. Let ook op een eventuele speaking name. Een hoofdpersoon die je niet uitnodigt tot identificatie heet een **antiheld**.
 
 Voorbeeld: In *Wees onzichtbaar* van Murat Isik is Metin een round character die zich ontwikkelt van een bang jongetje tot iemand die zijn eigen weg vindt.
 
-### Cluster 2: Tijd
+---
 
-**Verteltijd en vertelde tijd**
-- **Vertelde tijd:** de hoeveelheid tijd die in het verhaal verloopt.
-- **Verteltijd:** de tijd die de schrijver nodig heeft om het te vertellen.
+### 9. (Tijds)opbouw
 
-**Versnelling en vertraging**
-- **Versnelling (tijdverdichting):** veel vertelde tijd in weinig verteltijd. Jaren in een paar zinnen (telling).
-- **Vertraging:** weinig vertelde tijd in veel verteltijd. Een moment over meerdere bladzijden (scene/showing).
-- **Tijdsprong:** de schrijver slaat een periode over.
+**Spanningsopbouw**
+- **Vooruitwijzingen:** de schrijver hint naar wat komen gaat.
+- **Informatie achterhouden:** de lezer wordt op het verkeerde been gezet.
+- **Ab ovo:** het verhaal begint rustig met veel achtergrond.
+- **In medias res:** het verhaal begint meteen middenin de actie.
 
-**Chronologie**
+Het einde: bij een **gesloten einde** is het probleem afgerond. Bij een **open einde** blijft onzeker hoe het verdergaat.
+
+**Spelen met de tijd**
 - **Chronologisch:** gebeurtenissen in volgorde van tijd.
 - **Niet-chronologisch:** de volgorde wordt doorbroken.
-- **Flashback:** teruggang naar een eerder moment.
+- **Flashback:** teruggang naar een eerdere gebeurtenis.
 - **Flashforward:** vooruitblik naar iets wat nog gaat gebeuren.
+- **Tijdverdichting (versnelling):** veel tijd in weinig tekst samengevat.
+- **Dehnung (vertraging):** een korte gebeurtenis zeer uitvoerig beschreven.
 
-### Cluster 3: Perspectief
+---
 
-**Ik-perspectief (intern):** de verteller is zelf een personage. Je ziet alles door zijn ogen. Sterk betrokken maar beperkt en subjectief.
+### 10. Verteltijd en vertelde tijd
 
-**Hij/zij-perspectief (extern):**
-- *Alwetende verteller:* weet alles, ook de gedachten van alle personages.
-- *Beperkt perspectief:* volgt één personage maar weet niet alles.
+- **Verteltijd:** de tijd die je als lezer nodig hebt om het verhaal te lezen, uitgedrukt in pagina's.
+- **Vertelde tijd:** de tijd die verstrijkt binnen de wereld van het verhaal (minuten, jaren).
 
-**Onbetrouwbare verteller:** een verteller die een vertekend beeld geeft. De lezer moet zelf bepalen wat er echt is gebeurd.
+De verhouding tussen beide zegt iets. Een dik boek dat een dag beschrijft zit vol detail. Een dun boek dat een mensenleven omspant maakt veel gebruik van versnelling.
 
-### Cluster 4: Titel, genre en ruimte
+---
 
-**Titelverklaring**
-Een titel heeft altijd een letterlijke en een figuurlijke betekenis. De figuurlijke hangt samen met het thema.
+### 11. Perspectief
 
-**Genre**
-Voorbeelden: ontwikkelingsroman, historische roman, psychologische roman. Een boek kan bij meerdere genres passen.
+Het perspectief bepaalt vanuit wie je het verhaal binnenkijkt en dus wat je als lezer wel en niet weet.
 
-**Ruimte**
-- **Sfeerscheppende ruimte:** de omgeving roept een sfeer op.
-- **Symbolische ruimte:** de ruimte staat voor het gevoel van een personage.
+- **Alwetende (auctoriale) verteller:** staat buiten het verhaal en weet alles, ook de gedachten van alle personages. Komt vooral voor in oudere boeken.
+- **Personaal perspectief:** je kruipt in de huid van een personage en ziet alleen wat hij ziet.
+- **Ik-perspectief:** een ik-figuur vertelt wat hij meemaakt. Let op het verschil tussen het *belevende ik* en het *vertellende ik*.
+
+Veel moderne schrijvers wisselen van perspectief. Een verteller kan ook **onbetrouwbaar** zijn: hij vertelt iets dat niet klopt, bewust of onbewust.
+
+---
+
+### 12. Ruimte
+
+Een goed verhaal speelt zelden zomaar ergens. Functies van de ruimte:
+- **Sfeerscheppend:** de omgeving roept een sfeer op.
+- **Symbolisch:** de ruimte staat voor het gevoel van een personage.
 - **Overeenkomst of contrast:** past de ruimte bij de handeling of botst hij ermee?
 
-Voorbeeld: In *Nooit meer slapen* van Hermans versterkt het lege noorden van Noorwegen de eenzaamheid van de hoofdpersoon.
+Voorbeeld: In *Nooit meer slapen* van Hermans versterkt het lege, onherbergzame noorden van Noorwegen de eenzaamheid van de hoofdpersoon.
 
-### Cluster 5: Thema, idee, symboliek en motieven
+---
 
-**Thema**
-Het thema is waar het boek in de kern over gaat, algemeen verwoord. Niet: de belevenissen van een jongetje in de oorlog, maar: oorlog. Zie het thema als een kapstok.
+### 13. Symboliek en motieven
 
-**Idee**
-De idee is wat de schrijver over dat thema te zeggen heeft. Voorbeeld: thema = pesten; idee = pesten kan desastreuze gevolgen hebben.
+Een **symbool** is iets uit het verhaal dat een tweede, diepere betekenis heeft. Je herkent het doordat het meerdere keren terugkomt. Let op herhalingen van kleuren, voorwerpen, het weer of een bepaalde plek.
 
-**Symboliek**
-Een symbool heeft een tweede, diepere betekenis. Je herkent het doordat het meerdere keren terugkomt. Let op herhalingen: kleuren, voorwerpen, het weer.
+Voorbeeld: In *De aanslag* van Harry Mulisch keren dobbelstenen terug als symbool voor het toeval.
 
-Voorbeeld: In *De aanslag* van Harry Mulisch keren dobbelstenen terug als symbool voor het toeval dat het leven bepaalt.
+**Motieven:**
+- **Leidmotief:** een concreet, tastbaar element dat steeds terugkeert en een symbolische functie heeft.
+- **Abstract motief:** een terugkerend, niet-tastbaar gegeven zoals liefde, schuld of toeval.
 
-**Motieven**
-- **Leidmotief:** een concreet, tastbaar element dat steeds terugkeert.
-- **Abstract motief:** een terugkerend, niet-tastbaar gegeven zoals liefde of schuld.
+---
+
+### 14. Eigen mening
+
+Je mening moet altijd onderbouwd zijn met argumenten. Werk vier onderdelen uit:
+- **Originaliteit:** laat de schrijver je kennismaken met nieuwe ideeen of een nieuwe leefwereld?
+- **Relevantie:** is het thema van belang voor de mens?
+- **Stijl:** zinsbouw, woordkeus, beeldspraak, gebruik van dialoog.
+- **Eigen oordeel:** je mening over het geheel, onderbouwd met literaire begrippen.
+
+---
+
+### 15. Beoordelingswoorden
+
+Gebruik deze woordparen om je mening preciezer te formuleren: abstract/concreet, makkelijk/moeilijk, persoonlijk/onpersoonlijk, vaag/helder, rationeel/emotioneel, toegankelijk/ontoegankelijk, diepgravend/lichtvoetig, boeiend/saai, realistisch/poetisch, traditioneel/vernieuwend, origineel/onorigineel, ontroerend/afstandelijk.
+
+---
 
 ### Samenhang: het geheim van een goede analyse
 
-Een sterke analyse legt verbanden tussen de clusters:
-- Een ik-perspectief (cluster 3) maakt dat je je sterk inleeft in de hoofdpersoon (cluster 1).
-- Een sombere ruimte (cluster 4) versterkt een thema als eenzaamheid (cluster 5).
-- Een niet-chronologische opbouw (cluster 2) kan de idee onderstrepen dat het verleden je blijft achtervolgen (cluster 5).
+Een sterke analyse legt verbanden:
+- Een ik-perspectief maakt dat je je sterk inleeft in de hoofdpersoon.
+- Een sombere ruimte versterkt een thema als eenzaamheid.
+- Een niet-chronologische opbouw kan de idee onderstrepen dat het verleden je blijft achtervolgen.
 
-Hoe meer verbanden je ziet, hoe hoger je analyse-niveau.`,
+Hoe meer verbanden je ziet en kunt uitleggen, hoe hoger je cijfer.``,
     vragen: [
       { id: "la-1", niveau: "reproductie", vraag: "Wat is het verschil tussen onderwerp en thema?", opties: ["Er is geen verschil, het zijn synoniemen", "Het onderwerp is concreet (waar gaat het over), het thema is de abstracte boodschap", "Het thema is concreet, het onderwerp is abstract", "Het onderwerp gaat over personages, het thema over de plot"], antwoord: 1, uitleg: "Het onderwerp is het concrete gegeven (bijv. een oorlog), het thema is de diepere boodschap die de auteur overbrengt (bijv. over menselijke wreedheid)." },
       { id: "la-2", niveau: "reproductie", vraag: "Wat is het kenmerk van een alwetende verteller?", opties: ["De verteller is zelf een personage in het verhaal", "De verteller weet alles, inclusief de gedachten en gevoelens van alle personages", "De verteller vertelt alleen wat hij zelf heeft meegemaakt", "De verteller is anoniem en heeft geen naam"], antwoord: 1, uitleg: "Een alwetende verteller staat buiten het verhaal en heeft toegang tot de gedachten en gevoelens van alle personages. Dit geeft een breed perspectief." },
