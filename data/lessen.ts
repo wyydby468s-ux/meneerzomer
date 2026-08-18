@@ -802,6 +802,223 @@ Experiment met vorm en taal. Invloed van Freud en de Eerste Wereldoorlog.
       { id: "lg-5", niveau: "toepassing", vraag: "Welke stroming legde de nadruk op rede, wetenschap en kritiek op bijgeloof?", opties: ["Romantiek", "Middeleeuwen", "Verlichting", "Modernisme"], antwoord: 2, uitleg: "De Verlichting (18e eeuw) plaatste rede en wetenschap boven geloof en traditie. Filosoof Voltaire en schrijver Rousseau zijn bekende vertegenwoordigers." },
       { id: "lg-6", niveau: "inzicht", vraag: "Waarom kan het belangrijk zijn om de literaire stroming van een tekst te kennen voor je analyse?", opties: ["Omdat je dan weet hoe oud de tekst is", "Omdat de stroming context biedt: het helpt je begrijpen welke ideeen en waarden de auteur beinvloedden en welke keuzes daardoor logisch zijn", "Omdat je de stroming altijd moet noemen in je analyse om punten te halen", "Omdat elke stroming vaste regels heeft waaraan een tekst moet voldoen"], antwoord: 1, uitleg: "De literaire stroming geeft historische en culturele context. Als je weet dat een tekst uit het Naturalisme komt, begrijp je waarom de auteur determinisme en sociale misstanden benadrukt. Context verdiept je analyse." },
     ],
+  },{
+    slug: "schrijfvaardigheid-betoog-4vwo",
+    titel: "Een betoog schrijven",
+    ondertitel: "Structuur, argumentatie en formulering voor 4 VWO",
+    niveau: "vwo",
+    vaardigheid: "Schrijfvaardigheid",
+    emoji: "✍️",
+    leerdoelen: [
+      "Je kent de structuur van een betoog en kunt die toepassen in een tekst van 400-500 woorden",
+      "Je kunt drie argumentatietypen herkennen en zelf gebruiken",
+      "Je kunt een tegenargument formuleren en effectief weerleggen",
+    ],
+    uitleg: `## Een betoog schrijven
+
+Een betoog is een tekst waarmee je de lezer probeert te overtuigen van jouw standpunt. Je hebt een duidelijke mening, je onderbouwt die met argumenten en je houdt rekening met wie je publiek is. Het verschil met een beschouwing is dat je in een betoog nadrukkelijk partij kiest: je verdedigt een stelling.
+
+### De structuur van een betoog
+
+Een sterk betoog bestaat altijd uit drie delen: een inleiding, een kern en een slot.
+
+| Onderdeel | Wat schrijf je? | Doel |
+|-----------|----------------|------|
+| **Inleiding** | Pakkende opening + stelling + publiek aanspreken | Aandacht trekken en standpunt duidelijk maken |
+| **Kern: argumenten** | Minimaal drie argumenten, elk in een eigen alinea. Begin elke alinea met het argument, gevolgd door uitleg en een voorbeeld. | De lezer overtuigen van jouw standpunt |
+| **Kern: tegenargument en weerlegging** | Noem een bezwaar dat tegenstanders kunnen aanvoeren en leg uit waarom dat jouw stelling niet onderuithaalt. | Laten zien dat je de andere kant kent en toch bij jouw standpunt blijft |
+| **Slot** | Samenvatting van je argumenten + herhaling van je standpunt + oproep aan de lezer | Sterke indruk achterlaten en lezer aanzetten tot nadenken of handelen |
+
+### Drie argumentatietypen
+
+Argumenten zijn de ruggengraat van je betoog. Er zijn drie veelgebruikte typen:
+
+**Feitelijk argument**
+Je gebruikt bewijsbare gegevens, cijfers of onderzoeksresultaten.
+Voorbeeld: "Uit onderzoek van het CBS blijkt dat 60% van de jongeren dagelijks meer dan drie uur op sociale media zit."
+Sterk als: de bron betrouwbaar en actueel is.
+
+**Waardeoordeel**
+Je baseert je argument op normen, waarden of morele opvattingen.
+Voorbeeld: "Het is onverantwoord om kinderen al vroeg bloot te stellen aan de schadelijke kanten van sociale media."
+Sterk als: de waarde die je aanroept breed gedeeld wordt.
+
+**Oorzaak-gevolg**
+Je legt een verband tussen een oorzaak en een gevolg.
+Voorbeeld: "Doordat jongeren voortdurend hun leven vergelijken met anderen online, neemt het zelfvertrouwen af."
+Sterk als: het verband aantoonbaar is en niet te simplistisch.
+
+### De weerlegging
+
+Een weerlegging maakt je betoog sterker, niet zwakker. Je laat zien dat je de discussie serieus neemt.
+
+Structuur: *Tegenstanders stellen dat... Dit klopt echter niet, omdat...*
+
+Zorg dat je de weerlegging echt onderbouwt. Alleen zeggen "dit klopt niet" is niet genoeg.
+
+### Signaalwoorden
+
+Gebruik signaalwoorden om je tekst samenhangend te maken:
+- **Opsomming**: Ten eerste, ten tweede, bovendien, daarnaast
+- **Oorzaak-gevolg**: doordat, daardoor, waardoor, dit leidt ertoe dat
+- **Tegenstelling**: echter, toch, desondanks, hoewel
+- **Conclusie**: kortom, al met al, concluderend
+
+### Checklist voor je betoog
+
+Controleer voor het inleveren:
+- Heb je een pakkende inleiding met een heldere stelling?
+- Zijn er drie argumenten, elk in een eigen alinea met uitleg en voorbeeld?
+- Is er een tegenargument met een echte weerlegging?
+- Sluit je slot aan bij de stelling en eindigt het met een oproep?
+- Heb je signaalwoorden gebruikt?
+- Spreek je het publiek consequent aan?
+- Zit je tussen de 400 en 500 woorden?`,
+    vragen: [
+      {
+        id: "bt4v-1",
+        niveau: "reproductie",
+        vraag: "Uit welke vier onderdelen bestaat een volledig betoog?",
+        opties: [
+          "Inleiding, kern, slot en samenvatting",
+          "Inleiding, kern met argumenten, kern met tegenargument en weerlegging, en slot",
+          "Stelling, argumenten, tegenargument en conclusie",
+          "Opening, standpunt, bewijs en oproep",
+        ],
+        antwoord: 1,
+        uitleg:
+          "Een volledig betoog bestaat uit een inleiding (met stelling), een kern met minimaal drie argumenten, een tegenargument met weerlegging, en een slot met oproep.",
+      },
+      {
+        id: "bt4v-2",
+        niveau: "reproductie",
+        vraag:
+          "Welk argumentatietype gebruik je als je schrijft: 'Doordat jongeren hun leven constant vergelijken met anderen op sociale media, neemt hun zelfvertrouwen af'?",
+        opties: [
+          "Feitelijk argument",
+          "Waardeoordeel",
+          "Oorzaak-gevolgargument",
+          "Analogieargument",
+        ],
+        antwoord: 2,
+        uitleg:
+          "Dit is een oorzaak-gevolgargument: de oorzaak (voortdurend vergelijken) leidt tot een gevolg (afname zelfvertrouwen). Er is een direct verband gelegd tussen oorzaak en gevolg.",
+      },
+      {
+        id: "bt4v-3",
+        niveau: "reproductie",
+        vraag: "Wat is de functie van een weerlegging in een betoog?",
+        opties: [
+          "Je geeft toe dat de tegenstander gelijk heeft",
+          "Je erkent een tegenargument en laat zien waarom het jouw stelling niet ondermijnt",
+          "Je geeft een extra argument voor je eigen standpunt",
+          "Je vat alle argumenten samen aan het einde",
+        ],
+        antwoord: 1,
+        uitleg:
+          "Een weerlegging laat zien dat je de andere kant kent en serieus neemt, maar dat die kant jouw stelling niet onderuithaalt. Dit maakt je betoog overtuigender, niet zwakker.",
+      },
+      {
+        id: "bt4v-4",
+        niveau: "reproductie",
+        vraag:
+          "Welk signaalwoord past bij een tegenstellend verband?",
+        opties: ["Bovendien", "Ten eerste", "Echter", "Kortom"],
+        antwoord: 2,
+        uitleg:
+          "'Echter' geeft een tegenstelling aan. 'Bovendien' en 'ten eerste' horen bij opsommingen, 'kortom' bij een conclusie.",
+      },
+      {
+        id: "bt4v-5",
+        niveau: "toepassing",
+        vraag:
+          "Welke stelling is het meest geschikt als basis voor een betoog van 4 VWO?",
+        opties: [
+          "Sociale media heeft zowel voor- als nadelen voor jongeren.",
+          "Jongeren onder de 16 jaar mogen sociale media niet meer gebruiken.",
+          "In dit betoog bespreek ik de invloed van sociale media.",
+          "Sociale media bestaat al heel lang.",
+        ],
+        antwoord: 1,
+        uitleg:
+          "Een goede stelling is concreet en verdedigbaar: er zijn mensen die het ermee eens zijn en mensen die het er niet mee eens zijn. 'Jongeren onder de 16 jaar mogen sociale media niet meer gebruiken' voldoet aan beide eisen. De andere opties zijn te vaag, beschrijvend of geen echte stellingen.",
+      },
+      {
+        id: "bt4v-6",
+        niveau: "toepassing",
+        vraag:
+          "Een leerling schrijft: 'Tegenstanders beweren dat een verbod op sociale media de vrijheid van jongeren beperkt. Dit is echter niet juist.' Wat ontbreekt?",
+        opties: [
+          "Er ontbreekt een signaalwoord voor de tegenstelling",
+          "Er ontbreekt een onderbouwing waarom het niet juist is",
+          "Het tegenargument staat op de verkeerde plek in het betoog",
+          "Er ontbreekt een opsomming van alle tegenargumenten",
+        ],
+        antwoord: 1,
+        uitleg:
+          "Een weerlegging is alleen overtuigend als je uitlegt waarom het tegenargument niet klopt. Alleen 'dit is echter niet juist' schrijven is onvoldoende: je moet beargumenteren waarom de tegenstander ongelijk heeft.",
+      },
+      {
+        id: "bt4v-7",
+        niveau: "toepassing",
+        vraag:
+          "Je schrijft een betoog voor de Tweede Kamer over het consumentenvuurwerkverbod. Welk argument is het sterkst?",
+        opties: [
+          "Veel mensen vinden vuurwerk leuk.",
+          "Vuurwerk is gevaarlijk.",
+          "Uit cijfers van de Nederlandse Brandwonden Stichting blijkt dat vuurwerk jaarlijks verantwoordelijk is voor meer dan duizend spoedeisende hulpbezoeken.",
+          "In andere landen is vuurwerk ook verboden.",
+        ],
+        antwoord: 2,
+        uitleg:
+          "Het sterkste argument bevat een concrete, betrouwbare bron met specifieke cijfers. Dit is een feitelijk argument dat direct relevant is voor de stelling. De andere opties zijn te vaag, te algemeen of niet onderbouwd.",
+      },
+      {
+        id: "bt4v-8",
+        niveau: "toepassing",
+        vraag:
+          "Welke openingszin trekt het meest de aandacht van de lezer?",
+        opties: [
+          "In dit betoog ga ik schrijven over sociale media.",
+          "Sociale media heeft voor- en nadelen.",
+          "Elke dag scrollen miljoenen Nederlandse jongeren uren door een eindeloze stroom beelden van perfecte levens die ze zelf nooit zullen leiden.",
+          "Sociale media is een onderwerp waar veel over te zeggen valt.",
+        ],
+        antwoord: 2,
+        uitleg:
+          "Een goede openingszin schetst direct een concreet beeld of stelt een prikkelende vraag. De derde optie doet dit: hij roept een herkenbaar beeld op en zet de lezer aan het denken. De andere opties zijn saai, vaag of zeggen inhoudelijk niets.",
+      },
+      {
+        id: "bt4v-9",
+        niveau: "inzicht",
+        vraag:
+          "Waarom is het slim om in een betoog een tegenargument te benoemen en te weerleggen, ook al ben je het er niet mee eens?",
+        opties: [
+          "Omdat de beoordelingscriteria dat vereisen",
+          "Omdat je daarmee laat zien dat je de discussie kent en de tegenstander serieus neemt, wat je eigen positie sterker maakt",
+          "Omdat het betoog anders te kort is",
+          "Omdat de lezer anders niet weet dat je een mening hebt",
+        ],
+        antwoord: 1,
+        uitleg:
+          "Een weerlegging vergroot de geloofwaardigheid van de schrijver. Als je de tegenstander serieus neemt en toch laat zien waarom jouw standpunt sterker is, overtuig je de lezer effectiever dan wanneer je alleen je eigen argumenten geeft.",
+      },
+      {
+        id: "bt4v-10",
+        niveau: "inzicht",
+        vraag:
+          "Een leerling schrijft een betoog met drie feitelijke argumenten gebaseerd op statistieken, maar zonder waardeoordeel of oorzaak-gevolgargument. Is dit een probleem?",
+        opties: [
+          "Nee, feitelijke argumenten zijn altijd het sterkst",
+          "Nee, zolang de bronnen betrouwbaar zijn is het prima",
+          "Ja, want een betoog is overtuigender als je verschillende argumentatietypen combineert: feiten spreken het hoofd aan, waardeoordelen het gevoel",
+          "Ja, want je mag geen statistieken gebruiken in een betoog",
+        ],
+        antwoord: 2,
+        uitleg:
+          "Een gevarieerde argumentatiestrategie is overtuigender. Feitelijke argumenten spreken de rede aan, waardeoordelen het gevoel en oorzaak-gevolgargumenten de logica. Door ze te combineren bereik je meer lezers en maak je een volledigere indruk.",
+      },
+    ],
   },
 ];
 
