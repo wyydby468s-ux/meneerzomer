@@ -1024,7 +1024,175 @@ Controleer voor het inleveren:
           "Een gevarieerde argumentatiestrategie is overtuigender. Feitelijke argumenten spreken de rede aan, waardeoordelen het gevoel en oorzaak-gevolgargumenten de logica. Door ze te combineren bereik je meer lezers en maak je een volledigere indruk.",
       },
     ],
-  },
+  },<!-- wp:heading {"level":1} -->
+# Het essay: schrijvend denken
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+Op deze pagina leer je wat een essay is en wat het anders maakt dan een betoog of een verslag. Je ontdekt hoe je van een eigen ervaring naar een grotere gedachte komt, en waarom twijfel juist welkom is. Gebruik deze pagina om de theorie op te frissen; het uitgebreide stappenplan vind je in je reader.
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+## Wat is een essay?
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+Het woord *essay* komt van het Franse werkwoord *essayer*: proberen. En dat is precies wat je doet. Je probeert iets uit te denken zonder dat je vooraf al weet waar je uitkomt.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+De Fransman Michel de Montaigne bedacht het genre in de zestiende eeuw. Hij wilde onderzoeken of hij al schrijvend en denkend zelf tot inzicht kon komen. Dat is nog steeds de kern: een essay is schrijvend denken.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+In een essay laat je je gedachtegang zien. Je neemt de lezer mee van je vertrekpunt naar een grotere gedachte. De lezer denkt met je mee, stap voor stap.
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+## Van ervaring naar grotere gedachte
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+Een sterk essay begint klein en concreet: bij iets wat je hebt meegemaakt of opgemerkt. Daarna zoom je uit naar de vraag die eronder zit.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+Een voorbeeld. De ene buurman is altijd vrolijk, de andere nooit. Dat is de ervaring. De grotere gedachte: waar komt vrolijkheid eigenlijk vandaan, en kun je die leren? Zo wordt jouw kleine observatie het beginpunt van een gedachte die iedereen aangaat.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+Die beweging ziet er zo uit:
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+- **Kijken:** wat heb je meegemaakt, gezien of opgemerkt?
+- **Nadenken:** welke grotere vraag of gedachte zit daaronder?
+- **Onderzoeken:** wat zeggen anderen, en hoe verandert dat jouw gedachte?
+- **Oordelen:** tot welk (voorlopig) inzicht kom je?
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+## Twijfel mag
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+Dit is het grote verschil met een betoog. In een betoog wil je de lezer overtuigen van één standpunt en stop je twijfel juist weg. In een essay laat je je denken zien, inclusief de momenten waarop je het zelf nog niet zeker weet.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+Je hoeft aan het eind dus geen hard, sluitend antwoord te geven. Sterker nog: een essay dat te snel gelijk wil krijgen, wordt vaak een saai betoog. Durf onderweg te aarzelen, een zijpad in te slaan of van gedachten te veranderen. Dat is geen zwakte, dat is het genre.
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+## De opbouw: vrij, maar niet vormloos
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+De vorm ligt losser dan bij een verslag, maar een goed essay heeft wel een duidelijke lijn. Meestal herken je drie delen, die soepel in elkaar overlopen.
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+- **Inleiding:** je opent pakkend, vaak met je concrete ervaring. Je maakt nieuwsgierig en hint naar de vraag die je gaat onderzoeken.
+- **Kern:** je onderzoekt je vraag. Je laat je gedachtegang zien, brengt een bron of ander perspectief in en durft te twijfelen.
+- **Slot:** je komt terug bij je begin en laat zien tot welk inzicht je bent gekomen. Dat mag ook een afweging of een open einde zijn. Eindig krachtig.
+<!-- /wp:list -->
+
+<!-- wp:heading -->
+## Waar let je op?
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+- Begin bij iets concreets: een ervaring, beeld of observatie van jou.
+- Zorg dat er een grotere gedachte of vraag onder ligt die de lezer aangaat.
+- Maak je gedachtegang zichtbaar: laat de lezer met je meedenken, ook in je twijfel.
+- Onderbouw met minstens één bron of perspectief van buiten jezelf, en verwijs daarnaar.
+- Schrijf in je eigen stem: persoonlijk, maar niet vrijblijvend.
+- Houd het bondig: 600 tot 750 woorden. Kill your darlings.
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+Wil je oefenen of heb je een vraag? Gebruik de AI-tutor op deze pagina.
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+---
+<!-- /wp:separator -->
+
+<!-- wp:heading -->
+## Twee voorbeelden om te vergelijken
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+Hieronder staan twee korte essays over hetzelfde onderwerp: altijd op je telefoon kijken. De één is sterker dan de ander. Lees ze allebei en bedenk zelf wat goed is en wat beter kan. Het antwoord staat er niet bij; dat bespreek je in de les of leg je voor aan de AI-tutor.
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+### Voorbeeld 1
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+#### Weg met die schermen
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+Laatst zat ik in de trein en toen keek ik om me heen. Iedereen zat op zijn telefoon. Echt iedereen. Een man van een jaar of vijftig, twee meisjes van mijn leeftijd, zelfs een oude mevrouw. Niemand keek naar buiten, terwijl het buiten juist mooi weer was. Ik vond het een treurig gezicht.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+Mensen zijn tegenwoordig verslaafd aan hun telefoon. Dat is gewoon een feit. Vroeger praatten mensen in de trein met elkaar en nu doet niemand dat meer. We zijn het contact met elkaar kwijtgeraakt door die schermen. Sociale media zijn daar de schuld van, want die zijn expres zo gemaakt dat je er niet meer vanaf kunt blijven.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+Iedereen zou veel minder op zijn telefoon moeten kijken. Als je in de trein zit, kun je beter een boek lezen of uit het raam kijken. Dat is veel gezonder voor je hersenen. Ook zou het goed zijn als mensen weer gewoon met elkaar praten, want daar word je gelukkiger van. De telefoon moet gewoon af en toe uit.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+Ik snap ook wel dat een telefoon soms handig is, bijvoorbeeld om de weg te vinden. Maar toch vind ik dat het te ver is doorgeslagen. We moeten met zijn allen weer leren om zonder telefoon te leven. Alleen dan wordt de wereld weer een beetje normaal. Dus: weg met die schermen.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+**Denk na:** Waar begint deze tekst goed, en op welk moment wordt het meer een betoog dan een essay? Zie je de schrijver ergens twijfelen of nadenken? Wordt de gedachte groter dan de anekdote?
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+### Voorbeeld 2
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":4} -->
+#### Iets om vast te houden
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+In de trein liet ik laatst mijn telefoon thuis. Niet expres; ik was hem vergeten. De eerste minuten voelde ik iets vreemds: mijn hand ging steeds naar mijn jaszak, ook al wist ik dat daar niets zat. Alsof mijn hand zelf al wist wat ze wilde nog voordat ik iets besloot.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+Ik dacht eerst dat ik me verveelde. Maar toen ik er langer over nadacht, was het iets anders. Het was geen verveling, het was onrust. Ik wist niet goed wat ik met mijn handen en mijn ogen aan moest. Waarom eigenlijk? Wat zoek ik precies als ik naar dat schermpje grijp?
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+Ik dacht altijd dat ik mijn telefoon pakte omdat ik iets wilde weten of iemand wilde spreken. Maar die keer in de trein had ik niets te checken en niemand te bereiken, en toch wilde mijn hand dat toestel. Misschien pak ik mijn telefoon dus helemaal niet om iets te dóén, maar gewoon om iets vast te houden. Iets wat de leegte opvult.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+De hoogleraar die het boek *Digitale detox* schreef, noemt de telefoon niet voor niets een 'volwassenenspeen'. Eerst vond ik dat woord overdreven. Maar in die trein begreep ik het opeens. Een speen stopt geen honger; hij stopt onrust. Misschien is dat wat mijn telefoon ook doet.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+Ik weet nog steeds niet of dat erg is. Een kind met een speen is niet ongelukkig. Maar toen ik na een half uur uit het raam had zitten kijken, was de onrust weg, zonder dat er iets voor in de plaats was gekomen. Sindsdien vraag ik me af of ik mijn telefoon af en toe vergeet, of dat ik hem stiekem expres thuislaat.
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+**Denk na:** Hoe komt deze schrijver van een klein moment naar een grotere gedachte? Waar zie je de gedachtegang bewegen of veranderen? Wat doet de bron met het denken, en waarom werkt het open slot hier?
+<!-- /wp:paragraph -->
+
+<!-- wp:separator -->
+---
+<!-- /wp:separator -->
+
+<!-- wp:paragraph -->
+Klaar om zelf te beginnen? Pak je reader erbij voor het stappenplan, of vraag de AI-tutor op deze pagina om je op weg te helpen met een eerste ervaring.
+<!-- /wp:paragraph -->
 ];
 
 export function getLes(slug: string): Les | undefined {
