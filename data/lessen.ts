@@ -822,12 +822,17 @@ Een betoog is een tekst waarmee je de lezer probeert te overtuigen van jouw stan
 
 Een sterk betoog bestaat altijd uit drie delen: een inleiding, een kern en een slot.
 
-| Onderdeel | Wat schrijf je? | Doel |
-|-----------|----------------|------|
-| **Inleiding** | Pakkende opening + stelling + publiek aanspreken | Aandacht trekken en standpunt duidelijk maken |
-| **Kern: argumenten** | Minimaal drie argumenten, elk in een eigen alinea. Begin elke alinea met het argument, gevolgd door uitleg en een voorbeeld. | De lezer overtuigen van jouw standpunt |
-| **Kern: tegenargument en weerlegging** | Noem een bezwaar dat tegenstanders kunnen aanvoeren en leg uit waarom dat jouw stelling niet onderuithaalt. | Laten zien dat je de andere kant kent en toch bij jouw standpunt blijft |
-| **Slot** | Samenvatting van je argumenten + herhaling van je standpunt + oproep aan de lezer | Sterke indruk achterlaten en lezer aanzetten tot nadenken of handelen |
+**Inleiding**
+Trek de aandacht van de lezer, presenteer je stelling en spreek je publiek aan. Doel: de lezer wil verder lezen en weet direct waar je voor staat.
+
+**Kern: argumenten**
+Minimaal drie argumenten, elk in een eigen alinea. Begin elke alinea met het argument, gevolgd door uitleg en een voorbeeld of bewijs. Doel: de lezer overtuigen van jouw standpunt.
+
+**Kern: tegenargument en weerlegging**
+Noem een bezwaar dat tegenstanders kunnen aanvoeren en leg uit waarom dat jouw stelling niet onderuithaalt. Doel: laten zien dat je de andere kant kent en toch bij jouw standpunt blijft.
+
+**Slot**
+Samenvatting van je argumenten, herhaling van je standpunt en een oproep aan de lezer. Doel: sterke indruk achterlaten en de lezer aanzetten tot nadenken of handelen.
 
 ### Drie argumentatietypen
 
