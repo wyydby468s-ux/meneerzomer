@@ -1508,6 +1508,110 @@ Klaar om zelf te beginnen? Pak je reader erbij voor het stappenplan, of vraag de
       { id: "es-8", niveau: "inzicht", vraag: "Waarom werkt het bij een essay vaak goed om aan het slot terug te keren naar de concrete ervaring uit je inleiding?", opties: ["Omdat de lezer dan ziet dat je niets nieuws hebt bedacht", "Omdat je zo je gedachtegang rondmaakt en laat zien hoe je denken over dat beginpunt is veranderd", "Omdat een essay altijd cirkelvormig moet zijn", "Omdat je anders te weinig woorden hebt"], antwoord: 1, uitleg: "Door terug te keren naar je beginpunt maak je de gedachtegang rond en laat je zien wat het nadenken heeft opgeleverd. De lezer ziet hoe je blik op diezelfde ervaring is verschoven, wat het essay samenhang en zeggingskracht geeft." },
     ],
   },
+  {
+    slug: "schrijfvaardigheid-populairwetenschappelijk-artikel-6vwo",
+    titel: "Een populairwetenschappelijk artikel schrijven",
+    ondertitel: "Je profielwerkstuk toegankelijk maken voor een breed publiek (6 VWO)",
+    niveau: "vwo",
+    vaardigheid: "Schrijfvaardigheid",
+    emoji: "🔬",
+    leerdoelen: [
+      "Je kent de kenmerken van een populairwetenschappelijk artikel: definitie, doel, publiek, inhoud en structuur, stijl en omvang",
+      "Je herkent wat een sterk en een zwak populairwetenschappelijk artikel van elkaar onderscheidt",
+      "Je kunt je eigen profielwerkstuk-onderzoek herstructureren en toegankelijk maken voor een breed publiek",
+    ],
+    uitleg: `## Het populairwetenschappelijk artikel
+
+Op deze pagina lees je de theorie die je nodig hebt om je eigen populairwetenschappelijk artikel te schrijven, het schoolexamen waarmee je gedocumenteerd schrijven afsluit. Het uitgebreide stappenplan met alle lesstappen vind je in je informatieboekje.
+
+## Wat is een populairwetenschappelijk artikel?
+
+Een populairwetenschappelijk artikel presenteert onderzoek aan een lezer die geinteresseerd is, maar geen vakgenoot is. Jij kent je onderwerp inmiddels goed door je profielwerkstuk. De uitdaging is dat je die kennis herstructureert en in een toegankelijke vorm giet, afgestemd op een lezer die niet alles al weet.
+
+Dat is een andere opgave dan je theoretisch kader schrijven. In je profielwerkstuk overtuig je een vakkundige lezer met precisie en volledigheid. In je artikel neem je een nieuwsgierige leek mee, met dezelfde inhoud maar een heel andere toon.
+
+### De kenmerken op een rij
+
+**Definitie**
+Een aantrekkelijke, schriftelijke presentatie van uitgevoerd onderzoek.
+
+**Doel**
+Informeren en amuseren, soms betogend of beschouwend van aard.
+
+**Publiek**
+Breed geinteresseerd in wetenschappelijke thema's, maar niet per se deskundig.
+
+**Inhoud en structuur**
+Titel en lead, inleiding (aanleiding, conclusie, wie- en wat-vraag), middenstuk (doel of vraagstelling, belangrijkste resultaten, hoe- en waarom-vraag), slot (conclusie, slotbeschouwing, uitsmijter).
+
+**Stijl**
+Actieve vorm. Jargon vermijd je, of je legt het uit en gebruikt het daarna opnieuw. Beeldend en gidsend taalgebruik.
+
+**Omvang**
+800 tot 1200 woorden.
+
+### Wat maakt het verschil tussen sterk en zwak?
+
+- Je titel en lead trekken de aandacht en geven al een indruk van waar het artikel over gaat.
+- Je opening legt uit waarom dit onderwerp interessant is, voordat je in details duikt.
+- Je vermijdt vakjargon, of je legt het de eerste keer kort uit.
+- Je schrijft actief: "onderzoekers ontdekten" in plaats van "er werd ontdekt".
+- Je slot rondt af met een conclusie of een uitsmijter, niet met een opsomming van beperkingen van je onderzoek.
+
+## AI en dit schoolexamen
+
+Tijdens de lessen die aan het schoolexamen voorafgaan, mag je AI gebruiken op de niveaus die in je informatieboekje per stap staan. Tijdens het schoolexamen zelf, de 100 minuten in de toetsweek, mag je geen AI gebruiken. Je werkt dan alleen met je documentatiemap.
+
+Wil je oefenen of heb je een vraag? Gebruik de AI-tutor op deze pagina.
+
+---
+
+## Twee voorbeeldteksten om te vergelijken
+
+Hieronder staan twee korte populairwetenschappelijke artikelen over hetzelfde soort onderzoek: slaaptekort bij scholieren. De een is sterker dan de ander. Lees ze allebei en bedenk zelf wat goed is en wat beter kan, voordat je verdergaat.
+
+### Voorbeeld 1: Scholieren en slaap, een probleem
+
+Uit onderzoek blijkt dat veel scholieren te weinig slapen. Dit is een probleem, want slaap is belangrijk voor de hersenen. In dit artikel wordt besproken waarom dit zo is en wat de gevolgen zijn.
+
+Er zijn meerdere oorzaken van slaaptekort bij scholieren. Ten eerste beginnen de lessen vaak vroeg, terwijl de biologische klok van pubers juist verschuift naar een later slaapritme. Ten tweede wordt er veel gebruikgemaakt van telefoons en andere schermen voor het slapengaan, wat de aanmaak van het slaaphormoon melatonine vertraagt. Ten derde speelt huiswerkdruk een rol, waardoor leerlingen laat naar bed gaan.
+
+De gevolgen van slaaptekort zijn divers. Er wordt een verminderde concentratie gemeten, evenals een negatieve invloed op het geheugen. Ook het humeur wordt beinvloed door te weinig slaap. Uit een enquete onder 120 leerlingen bleek dat 62% aangaf zich vaak moe te voelen tijdens de eerste twee lesuren.
+
+Er zijn verschillende oplossingen mogelijk. Scholen zouden later kunnen beginnen met de lessen. Ook zouden leerlingen zelf bewuster met schermgebruik moeten omgaan. Daarnaast is voorlichting over het belang van slaap nuttig.
+
+Concluderend kan gesteld worden dat slaaptekort een veelvoorkomend probleem is onder scholieren met verschillende negatieve gevolgen. Verder onderzoek is nodig om vast te stellen welke maatregelen het meest effectief zijn. Een beperking van dit onderzoek is dat de enquete is afgenomen op maar een school, waardoor de resultaten niet zonder meer te generaliseren zijn.
+
+**Denk na:** Waar wordt hier vooral verteld in plaats van getoond? Zoek de zinnen in de lijdende vorm (passief) op: wat gebeurt er met de tekst als je ze actief zou maken? Trekt de opening jou als lezer? En past het slot bij een populairwetenschappelijk artikel, of bij een ander genre?
+
+### Voorbeeld 2: Waarom jouw wekker de vijand is
+
+Half acht 's ochtends. Ergens in een slaapkamer gaat een wekker af, en ergens in een tienerbrein gebeurt er... vrijwel niets. Wetenschappers weten inmiddels waarom: bij pubers verschuift de biologische klok met wel twee uur naar achteren. Terwijl jij nog diep wegdroomt, verwacht je rooster dat je alert bent voor het eerste lesuur.
+
+Die verschuiving heet de slaapfase-vertraging, en hij is niet te wijten aan luiheid. Het hormoon melatonine, dat je slaperig maakt, komt bij pubers pas later op de avond vrij dan bij kinderen of volwassenen. Ga je om elf uur naar bed, dan lig je biologisch gezien eigenlijk nog volop wakker te wachten op de nacht.
+
+Voeg daar een telefoonscherm aan toe, en het probleem wordt groter. Het blauwe licht van een scherm remt de aanmaak van melatonine verder af, precies op het moment dat je lichaam daar juist aan toe is. Voor een onderzoek onder 120 leerlingen van een middelbare school vulden leerlingen een week lang een slaapdagboek in. Het resultaat: 62% voelde zich structureel moe tijdens de eerste twee lesuren, met scrollgedrag voor het slapengaan als grootste boosdoener.
+
+Het meest opvallende resultaat kwam niet uit de cijfers, maar uit de gesprekken erna. Leerlingen die hun telefoon een uur voor het slapengaan wegleggen, sliepen gemiddeld drieenveertig minuten langer, en dat zonder dat ze er zelf een wekker voor hoefden te zetten.
+
+Dus de volgende keer dat je nog "heel even" doorscrolt voor het slapengaan: je brein zou willen dat je dat niet deed. En misschien, heel misschien, is je wekker toch niet de echte vijand.
+
+**Denk na:** Waar herken je de kenmerken uit het genre-overzicht terug: de actieve vorm, het vermijden of uitleggen van jargon, het beeldende taalgebruik? Wat doet de openingszin met jou als lezer, vergeleken met voorbeeld 1? En waarom werkt dit slot beter dan een opsomming van onderzoeksbeperkingen?
+
+---
+
+Klaar om aan je eigen artikel te beginnen? Pak je informatieboekje erbij voor het stappenplan, of vraag de AI-tutor op deze pagina om mee te denken over jouw onderwerp.`,
+    vragen: [
+      { id: "pwa-1", niveau: "reproductie", vraag: "Wat is het publiek van een populairwetenschappelijk artikel?", opties: ["Uitsluitend vakgenoten en experts", "Breed geinteresseerd in wetenschappelijke thema's, maar niet per se deskundig", "Uitsluitend klasgenoten", "Alleen de docent die het artikel beoordeelt"], antwoord: 1, uitleg: "Het publiek is breed geinteresseerd maar niet per se deskundig. Dat bepaalt hoeveel uitleg je moet geven en welke toon je aanslaat." },
+      { id: "pwa-2", niveau: "reproductie", vraag: "Welke omvang hoort bij het populairwetenschappelijk artikel dat je schrijft?", opties: ["300 tot 500 woorden", "800 tot 1200 woorden", "1500 tot 2000 woorden", "Zo lang als nodig, er is geen richtlijn"], antwoord: 1, uitleg: "Het artikel is 800 tot 1200 woorden, zoals in het genre-overzicht staat." },
+      { id: "pwa-3", niveau: "reproductie", vraag: "Uit welke drie hoofdonderdelen bestaat de structuur van een populairwetenschappelijk artikel?", opties: ["Titel, argumenten, weerlegging", "Inleiding (met titel en lead), middenstuk, slot", "Hoofdvraag, deelvragen, conclusie", "Aanleiding, methode, resultaten"], antwoord: 1, uitleg: "De structuur bestaat uit titel en lead, inleiding, middenstuk en slot. Elk onderdeel heeft een eigen functie: aandacht trekken, aanleiding schetsen, resultaten uitwerken en afronden." },
+      { id: "pwa-4", niveau: "reproductie", vraag: "Welke stijl past bij een populairwetenschappelijk artikel?", opties: ["Passieve vorm, veel jargon, objectief en afstandelijk", "Actieve vorm, jargon vermijden of uitleggen, beeldend en gidsend taalgebruik", "Alleen korte, opsommende zinnen zonder uitleg", "Dezelfde stijl als een wetenschappelijk artikel"], antwoord: 1, uitleg: "De stijl is actief, toegankelijk en beeldend. Dit is een bewust andere stijl dan de objectieve, zakelijke stijl van je profielwerkstuk zelf." },
+      { id: "pwa-5", niveau: "toepassing", vraag: "In voorbeeld 1 staat de zin: 'Er wordt een verminderde concentratie gemeten.' Wat is hier het probleem?", opties: ["De zin is te kort", "De zin staat in de lijdende (passieve) vorm, terwijl het genre juist een actieve vorm vraagt", "De zin bevat een spelfout", "De zin gebruikt te veel jargon"], antwoord: 1, uitleg: "'Er wordt gemeten' is passief. Een actieve versie zou bijvoorbeeld zijn: 'Onderzoekers zagen dat de concentratie afnam.' Dat is directer en levendiger, precies wat het genre vraagt." },
+      { id: "pwa-6", niveau: "toepassing", vraag: "Waarom werkt de opening van voorbeeld 2 ('Half acht 's ochtends... ergens in een tienerbrein gebeurt er vrijwel niets') beter dan de opening van voorbeeld 1?", opties: ["Omdat voorbeeld 2 korter is", "Omdat voorbeeld 2 een concreet, herkenbaar beeld schetst waarmee de lezer wordt getrokken, in plaats van meteen te vertellen wat er 'wordt besproken'", "Omdat voorbeeld 2 meer cijfers noemt", "Omdat voorbeeld 1 een spelfout bevat in de opening"], antwoord: 1, uitleg: "Voorbeeld 1 opent met 'in dit artikel wordt besproken', wat feitelijk aankondigt maar niet boeit. Voorbeeld 2 opent met een beeld dat de lezer meteen meetrekt in de situatie. Dat sluit aan bij het kenmerk 'titel en lead trekken de aandacht'." },
+      { id: "pwa-7", niveau: "toepassing", vraag: "Voorbeeld 1 eindigt met: 'Een beperking van dit onderzoek is dat de enquete is afgenomen op maar een school.' Waarom past dit slot minder goed bij het genre?", opties: ["Omdat onderzoeksbeperkingen nooit genoemd mogen worden", "Omdat het genre vraagt om een slot met een conclusie of uitsmijter, niet om een opsomming van beperkingen, wat eerder bij een onderzoeksverslag hoort", "Omdat de zin grammaticaal onjuist is", "Omdat het slot te kort is"], antwoord: 1, uitleg: "Een populairwetenschappelijk artikel rondt af met een conclusie of uitsmijter die de lezer iets meegeeft, geen methodologische kanttekening. Die hoort eerder thuis in een onderzoeksverslag of je theoretisch kader." },
+      { id: "pwa-8", niveau: "inzicht", vraag: "Beide voorbeeldteksten gebruiken dezelfde onderzoeksgegevens (62% van 120 leerlingen voelt zich moe). Waarom is voorbeeld 2 daarmee toch een sterker artikel dan voorbeeld 1?", opties: ["Omdat voorbeeld 2 andere, betere cijfers gebruikt", "Omdat dezelfde inhoud in voorbeeld 2 is herverpakt in een toegankelijke, actieve en beeldende vorm die bij het genre past, terwijl voorbeeld 1 de inhoud opsomt zoals in een verslag", "Omdat voorbeeld 2 langer is dan voorbeeld 1", "Omdat voorbeeld 1 feitelijk onjuiste informatie bevat"], antwoord: 1, uitleg: "Dit is de kern van het genre: dezelfde onderzoeksinhoud kan op heel verschillende manieren gepresenteerd worden. Voorbeeld 1 blijft dicht bij de opsommende, afstandelijke stijl van een verslag. Voorbeeld 2 herstructureert exact dezelfde informatie tot een tekst die past bij een breed, nieuwsgierig publiek. Dat herstructureren is precies de vaardigheid die dit schoolexamen toetst." },
+    ],
+  },
 ];
 
 export function getLes(slug: string): Les | undefined {
