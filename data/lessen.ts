@@ -802,7 +802,8 @@ Experiment met vorm en taal. Invloed van Freud en de Eerste Wereldoorlog.
       { id: "lg-5", niveau: "toepassing", vraag: "Welke stroming legde de nadruk op rede, wetenschap en kritiek op bijgeloof?", opties: ["Romantiek", "Middeleeuwen", "Verlichting", "Modernisme"], antwoord: 2, uitleg: "De Verlichting (18e eeuw) plaatste rede en wetenschap boven geloof en traditie. Filosoof Voltaire en schrijver Rousseau zijn bekende vertegenwoordigers." },
       { id: "lg-6", niveau: "inzicht", vraag: "Waarom kan het belangrijk zijn om de literaire stroming van een tekst te kennen voor je analyse?", opties: ["Omdat je dan weet hoe oud de tekst is", "Omdat de stroming context biedt: het helpt je begrijpen welke ideeen en waarden de auteur beinvloedden en welke keuzes daardoor logisch zijn", "Omdat je de stroming altijd moet noemen in je analyse om punten te halen", "Omdat elke stroming vaste regels heeft waaraan een tekst moet voldoen"], antwoord: 1, uitleg: "De literaire stroming geeft historische en culturele context. Als je weet dat een tekst uit het Naturalisme komt, begrijp je waarom de auteur determinisme en sociale misstanden benadrukt. Context verdiept je analyse." },
     ],
-  },{
+  },
+  {
     slug: "schrijfvaardigheid-betoog-4vwo",
     titel: "Een betoog schrijven",
     ondertitel: "Structuur, argumentatie en formulering voor 4 VWO",
@@ -1024,7 +1025,20 @@ Controleer voor het inleveren:
           "Een gevarieerde argumentatiestrategie is overtuigender. Feitelijke argumenten spreken de rede aan, waardeoordelen het gevoel en oorzaak-gevolgargumenten de logica. Door ze te combineren bereik je meer lezers en maak je een volledigere indruk.",
       },
     ],
-  },# Het essay: schrijvend denken
+  },
+  {
+    slug: "schrijfvaardigheid-essay-5vwo",
+    titel: "Een essay schrijven",
+    ondertitel: "Schrijvend denken: van ervaring naar grotere gedachte (5 VWO)",
+    niveau: "vwo",
+    vaardigheid: "Schrijfvaardigheid",
+    emoji: "🪶",
+    leerdoelen: [
+      "Je weet wat een essay is en hoe het verschilt van een betoog en een verslag",
+      "Je kunt vanuit een eigen ervaring of twijfel naar een grotere gedachte werken",
+      "Je kunt een zichtbare gedachtegang opbouwen waarin twijfel een plek heeft",
+    ],
+    uitleg: `## Het essay: schrijvend denken
 
 Op deze pagina leer je wat een essay is en wat het anders maakt dan een betoog of een verslag. Je ontdekt hoe je van een eigen ervaring naar een grotere gedachte komt, en waarom twijfel juist welkom is. Gebruik deze pagina om de theorie op te frissen; het uitgebreide stappenplan vind je in je reader.
 
@@ -1080,9 +1094,7 @@ Wil je oefenen of heb je een vraag? Gebruik de AI-tutor op deze pagina.
 
 Hieronder staan twee korte essays over hetzelfde onderwerp: altijd op je telefoon kijken. De één is sterker dan de ander. Lees ze allebei en bedenk zelf wat goed is en wat beter kan. Het antwoord staat er niet bij; dat bespreek je in de les of leg je voor aan de AI-tutor.
 
-### Voorbeeld 1
-
-#### Weg met die schermen
+### Voorbeeld 1: Weg met die schermen
 
 Laatst zat ik in de trein en toen keek ik om me heen. Iedereen zat op zijn telefoon. Echt iedereen. Een man van een jaar of vijftig, twee meisjes van mijn leeftijd, zelfs een oude mevrouw. Niemand keek naar buiten, terwijl het buiten juist mooi weer was. Ik vond het een treurig gezicht.
 
@@ -1094,15 +1106,13 @@ Ik snap ook wel dat een telefoon soms handig is, bijvoorbeeld om de weg te vinde
 
 **Denk na:** Waar begint deze tekst goed, en op welk moment wordt het meer een betoog dan een essay? Zie je de schrijver ergens twijfelen of nadenken? Wordt de gedachte groter dan de anekdote?
 
-### Voorbeeld 2
-
-#### Iets om vast te houden
+### Voorbeeld 2: Iets om vast te houden
 
 In de trein liet ik laatst mijn telefoon thuis. Niet expres; ik was hem vergeten. De eerste minuten voelde ik iets vreemds: mijn hand ging steeds naar mijn jaszak, ook al wist ik dat daar niets zat. Alsof mijn hand zelf al wist wat ze wilde nog voordat ik iets besloot.
 
 Ik dacht eerst dat ik me verveelde. Maar toen ik er langer over nadacht, was het iets anders. Het was geen verveling, het was onrust. Ik wist niet goed wat ik met mijn handen en mijn ogen aan moest. Waarom eigenlijk? Wat zoek ik precies als ik naar dat schermpje grijp?
 
-Ik dacht altijd dat ik mijn telefoon pakte omdat ik iets wilde weten of iemand wilde spreken. Maar die keer in de trein had ik niets te checken en niemand te bereiken, en toch wilde mijn hand dat toestel. Misschien pak ik mijn telefoon dus helemaal niet om iets te dóén, maar gewoon om iets vast te houden. Iets wat de leegte opvult.
+Ik dacht altijd dat ik mijn telefoon pakte omdat ik iets wilde weten of iemand wilde spreken. Maar die keer in de trein had ik niets te checken en niemand te bereiken, en toch wilde mijn hand dat toestel. Misschien pak ik mijn telefoon dus helemaal niet om iets te doen, maar gewoon om iets vast te houden. Iets wat de leegte opvult.
 
 De hoogleraar die het boek *Digitale detox* schreef, noemt de telefoon niet voor niets een 'volwassenenspeen'. Eerst vond ik dat woord overdreven. Maar in die trein begreep ik het opeens. Een speen stopt geen honger; hij stopt onrust. Misschien is dat wat mijn telefoon ook doet.
 
@@ -1112,7 +1122,18 @@ Ik weet nog steeds niet of dat erg is. Een kind met een speen is niet ongelukkig
 
 ---
 
-Klaar om zelf te beginnen? Pak je reader erbij voor het stappenplan, of vraag de AI-tutor op deze pagina om je op weg te helpen met een eerste ervaring.
+Klaar om zelf te beginnen? Pak je reader erbij voor het stappenplan, of vraag de AI-tutor op deze pagina om je op weg te helpen met een eerste ervaring.`,
+    vragen: [
+      { id: "es-1", niveau: "reproductie", vraag: "Van welk Frans werkwoord komt het woord 'essay', en wat betekent het?", opties: ["Van 'essayer': proberen", "Van 'essence': kern", "Van 'écrire': schrijven", "Van 'penser': denken"], antwoord: 0, uitleg: "'Essay' komt van 'essayer', wat proberen betekent. In een essay probeer je al schrijvend tot inzicht te komen zonder dat je het antwoord vooraf kent." },
+      { id: "es-2", niveau: "reproductie", vraag: "Wat is het belangrijkste verschil tussen een essay en een betoog?", opties: ["Een essay is altijd langer dan een betoog", "In een essay laat je je gedachtegang en twijfel zien, in een betoog verdedig je één standpunt en stop je twijfel weg", "Een essay bevat geen bronnen, een betoog wel", "Een essay heeft geen inleiding en slot"], antwoord: 1, uitleg: "In een betoog wil je overtuigen en verberg je twijfel. In een essay laat je juist je denken zien, inclusief de momenten waarop je het nog niet zeker weet." },
+      { id: "es-3", niveau: "reproductie", vraag: "Welke lengte hoort bij het essay dat je in deze lessenserie schrijft?", opties: ["300 tot 400 woorden", "600 tot 750 woorden", "1000 tot 1200 woorden", "Zo lang als nodig, er is geen richtlijn"], antwoord: 1, uitleg: "Het essay is 600 tot 750 woorden. Bondigheid hoort bij het genre: kill your darlings." },
+      { id: "es-4", niveau: "reproductie", vraag: "Welke drie delen herken je meestal in een goed opgebouwd essay?", opties: ["Stelling, argumenten, weerlegging", "Inleiding, kern, slot", "Aanleiding, methode, conclusie", "Vraag, antwoord, samenvatting"], antwoord: 1, uitleg: "Een essay heeft een inleiding (pakkend, met je ervaring), een kern (waarin je je vraag onderzoekt) en een slot (waar je terugkomt bij je begin). De delen lopen soepel in elkaar over." },
+      { id: "es-5", niveau: "toepassing", vraag: "Je hebt de ervaring: 'Ik werd zenuwachtig voor een wedstrijd waar ik niet eens naartoe wilde.' Welke formulering maakt hier de sterkste grotere gedachte van?", opties: ["Waarom was ik zo zenuwachtig voor die wedstrijd?", "Waarom doen mensen mee aan dingen die hen ongelukkig maken?", "Hoe kun je minder zenuwachtig worden voor een wedstrijd?", "Waarom hou ik niet van die sport?"], antwoord: 1, uitleg: "Een essay stijgt uit boven de anekdote. 'Waarom doen mensen mee aan dingen die hen ongelukkig maken?' is een algemene vraag die de lezer aangaat, terwijl de andere opties bij de persoonlijke situatie blijven steken." },
+      { id: "es-6", niveau: "toepassing", vraag: "Een leerling schrijft een essay dat eindigt met: 'Kortom, iedereen zou minder op zijn telefoon moeten kijken. Punt.' Waarom past dit slot niet goed bij een essay?", opties: ["Het is te kort", "Het is te stellig en sluit alle twijfel af, terwijl een essay ruimte voor twijfel en een open einde mag houden", "Het bevat geen signaalwoord", "Het verwijst niet naar een bron"], antwoord: 1, uitleg: "Dit slot kiest de toon van een betoog: stellig en sluitend. Een essay mag eindigen met een afweging of een open einde. Te snel gelijk willen krijgen maakt het essay een betoog." },
+      { id: "es-7", niveau: "toepassing", vraag: "Waarom is het waardevol om in je essay minstens één bron of ander perspectief te verwerken?", opties: ["Omdat je essay dan langer wordt", "Omdat een bron je gedachtegang kan aanscherpen of tegenspreken en je denken zo rijker en geloofwaardiger maakt", "Omdat het verplicht is om een bron letterlijk te citeren", "Omdat de lezer anders denkt dat je de tekst hebt overgeschreven"], antwoord: 1, uitleg: "Een essay is meer dan je eigen gedachten opschrijven. Een bron of tegenstem dwingt je scherper na te denken en maakt je gedachtegang geloofwaardiger." },
+      { id: "es-8", niveau: "inzicht", vraag: "Waarom werkt het bij een essay vaak goed om aan het slot terug te keren naar de concrete ervaring uit je inleiding?", opties: ["Omdat de lezer dan ziet dat je niets nieuws hebt bedacht", "Omdat je zo je gedachtegang rondmaakt en laat zien hoe je denken over dat beginpunt is veranderd", "Omdat een essay altijd cirkelvormig moet zijn", "Omdat je anders te weinig woorden hebt"], antwoord: 1, uitleg: "Door terug te keren naar je beginpunt maak je de gedachtegang rond en laat je zien wat het nadenken heeft opgeleverd. De lezer ziet hoe je blik op diezelfde ervaring is verschoven, wat het essay samenhang en zeggingskracht geeft." },
+    ],
+  },
 ];
 
 export function getLes(slug: string): Les | undefined {
