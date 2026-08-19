@@ -804,6 +804,380 @@ Experiment met vorm en taal. Invloed van Freud en de Eerste Wereldoorlog.
     ],
   },
   {
+    slug: "literatuur-renaissance-wilhelmus",
+    titel: "Renaissance en het Wilhelmus",
+    ondertitel: "Historische context, mensbeeld en het oudste volkslied ter wereld",
+    niveau: "vwo",
+    vaardigheid: "Literatuur",
+    emoji: "🕰️",
+    leerdoelen: [
+      "Je kunt uitleggen wat de Renaissance is en hoe het mensbeeld verandert ten opzichte van de Middeleeuwen",
+      "Je kent de belangrijkste historische gebeurtenissen van de Nederlandse Renaissance en de vijf grote schrijvers",
+      "Je kunt de opbouw en functie van het Wilhelmus uitleggen, inclusief het acrostichon",
+      "Je herkent de opbouw van een sonnet aan de hand van een voorbeeld van Huygens",
+    ],
+    uitleg: `## Van Middeleeuwen naar Renaissance
+
+Voordat je bij de Renaissance uitkomt, is het goed om te weten waar de Nederlandse literatuur vandaan komt. In de Middeleeuwen (500-1500) is Nederlands vooral spreektaal. Verhalen gaan van mond tot mond: dit heet de orale traditie. Dat er op rijm werd verteld, hielp vertellers om de tekst te onthouden.
+
+De oudst bekende bewaarde Nederlandse zin is: "Hebban olla vogala nestas hagunnan hinase hic anda thu, wat unbidan we nu?" Vrij vertaald: "Alle vogels zijn al aan hun nest begonnen, behalve ik en jij, waar wachten we nog op?"
+
+In de late Middeleeuwen ontstaan rederijkerskamers: verenigingen van literatuurliefhebbers die maandelijks bijeenkwamen en met elkaar wedijverden in dichtkunst. Rederijkers speelden ook een rol bij stedelijke feesten en propaganda voor hun stad.
+
+### Een nieuw tijdperk
+
+Rond 1500 begint in Italie een nieuwe periode: de Renaissance, letterlijk "wedergeboorte". De term verwijst naar de herleving van de Griekse en Romeinse oudheid. Klassieke dichters als Homerus, Vergilius, Ovidius en Horatius worden na meer dan vijftien eeuwen opnieuw een inspiratiebron.
+
+Het middeleeuwse mensbeeld, waarin de mens vooral gericht is op God en het leven na de dood, verschuift naar een mensbeeld waarin de mens en het leven op aarde centraal staan. Dit noem je het antropocentrische wereldbeeld. De Renaissance-mens wil de wereld zelf ontdekken en leeft in het hier en nu, zonder zich alleen te laten voorschrijven door de kerk.
+
+Een belangrijk ideaal uit deze tijd is de homo universalis: de gedachte dat een mens een uniek individu is, net als in de klassieke oudheid, en zich op alle gebieden zou moeten kunnen ontwikkelen.
+
+### De Hervorming
+
+Naast de herleving van de klassieke oudheid speelt de Hervorming een grote rol. Deze ontstaat uit onvrede over misstanden in de rooms-katholieke kerk. Burgers willen ruimte voor eigen geloofsinzichten en kerkdiensten in de volkstaal in plaats van het Latijn.
+
+Maarten Luther verzet zich in 1517 met zijn stellingen tegen misstanden zoals de aflaathandel. Johannes Calvijn verdedigt daarna de gedachte van predestinatie: het idee dat het eeuwig heil afhangt van goddelijke uitverkiezing, niet van eigen daden. Het Calvinisme, met waarden als hard werken, ijver en spaarzaamheid, krijgt vanaf 1560 veel invloed in de Nederlanden.
+
+### De Nederlanden tussen 1517 en 1700
+
+Een aantal jaartallen helpt je de periode te plaatsen:
+
+- 1517: Luthers stellingen, het begin van de Hervorming
+- 1566: de Beeldenstorm
+- 1568-1648: de Tachtigjarige Oorlog
+- 1588: de Republiek der Verenigde Nederlanden
+- 1637: de Statenbijbel
+- rond 1700: het ontstaan van een standaardtaal (ABN)
+
+Filips II van Spanje probeert de zelfstandigheid van de Nederlandse gewesten in te perken en dwingt het katholieke geloof op. Dit leidt tot verzet, de Beeldenstorm en uiteindelijk tot de onafhankelijke Republiek. Binnen die Republiek bestaat een spanningsveld tussen de raadspensionarissen, die de gewestelijke zelfstandigheid verdedigen, en de stadhouders, die een sterker centraal gezag willen.
+
+Schrijvers veranderen in deze tijd van rol. Vanaf 1550 tonen velen zich actief betrokken bij de politiek en versterken ze met propagandaliteratuur de positie van Willem van Oranje. Politiek en literatuur zijn in de zestiende en zeventiende eeuw vaak nauw met elkaar verweven.
+
+### De vijf grote schrijvers
+
+Vijf schrijvers vertegenwoordigen de Nederlandse Renaissance-literatuur: Gerbrand Adriaensz. Bredero, Pieter Cornelisz. Hooft, Constantijn Huygens, Joost van den Vondel en Jacob Cats.
+
+### Het sonnet
+
+Een populaire dichtvorm uit deze periode is het sonnet: een lyrisch gedicht met een vast rijmschema (ABBA ABBA CDD CDC) en een vaste opbouw van veertien regels. Het gedicht bestaat uit twee kwatrijnen (samen het octaaf) en twee terzetten (samen het sextet). Tussen het octaaf en het sextet zit vaak een volta: een wending in het gedicht, waarbij de gedachte of stemming omslaat.
+
+Bekijk als voorbeeld dit sonnet van Constantijn Huygens, geschreven na de dood van zijn vrouw Sterre:
+
+Cupio Dissolvi. Op de dood van Sterre
+
+Of droom ik, en is 't nacht, of is mijn Ster verdwenen? (a)
+Ik waak, en 't is hoog dag, en zie mijn Sterre niet. (b)
+O hemelen, die mij haar aangezicht verbiedt, (b)
+Spreek mensen-taal en zeg, waar is mijn Sterre henen? (a)
+
+De hemel slaat geluid, ik hoor hem door mijn stenen, (a)
+En zegt, mijn Sterre staat in 't heilige gebied, (b)
+Waar zij de Godheid, waar de Godheid haar beziet, (b)
+En, voegt het lachen daar, belacht mijn ijdel wenen. (a)
+
+Nu, dood, nu snik, meteen verschenen en voorbij, (c)
+Nu, doorgang van een steen, van een gesteen, ten leven, (d)
+Dun schutsel, sta nabij, 'k zal 't u te dank vergeven; (d)
+
+Kom dood, en maak mij korts van deze koortsen vrij. (c)
+'k Verlang in 't eeuwig licht te zamen te zien zweven (d)
+Mijn heil, mijn lief, mijn lijf, mijn god, mijn Ster en mij. (c)
+
+In de eerste twee kwatrijnen (het octaaf) klaagt de dichter dat hij zijn overleden vrouw niet meer kan bereiken. Bij de terzetten (het sextet) verschuift de toon: de klacht wordt een verlangen naar de dood, zodat hij bij haar kan zijn. Die omslag van klacht naar verlangen is de volta van dit gedicht.
+
+### Het Wilhelmus
+
+Het Wilhelmus ontstaat rond 1570, tijdens de eerste jaren van de opstand tegen Spanje. Het lied is geschreven op de melodie van een Frans lied en bestaat uit vijftien coupletten. De eerste letters van elk couplet vormen samen de naam WILLEM VAN NASSOV: dit heet een acrostichon.
+
+Het lied is geschreven vanuit het perspectief van Willem van Oranje zelf, die zich verantwoordt tegenover het volk en tegelijk trouw blijft zweren aan de koning van Spanje. Deze schijnbare tegenstelling verklaar je vanuit de tijd waarin het lied ontstond: openlijk verzet tegen de vorst was gevaarlijk, dus koos de dichter voor een voorzichtige, gelaagde toon.
+
+Wil je oefenen of heb je een vraag? Gebruik de AI-tutor op deze pagina.`,
+    vragen: [
+      {
+        id: "ren-1",
+        niveau: "reproductie",
+        vraag: "Wat betekent het woord Renaissance letterlijk?",
+        opties: ["Verlichting", "Wedergeboorte", "Vernieuwing", "Hervorming"],
+        antwoord: 1,
+        uitleg: "Renaissance betekent letterlijk 'wedergeboorte' en verwijst naar de herleving van de Griekse en Romeinse oudheid.",
+      },
+      {
+        id: "ren-2",
+        niveau: "reproductie",
+        vraag: "Wat is het antropocentrische wereldbeeld?",
+        opties: [
+          "Een wereldbeeld waarin God en het hiernamaals centraal staan",
+          "Een wereldbeeld waarin de mens en het leven op aarde centraal staan",
+          "Een wereldbeeld waarin de klassieke oudheid wordt afgewezen",
+          "Een wereldbeeld waarin de kerk alle kennis bepaalt",
+        ],
+        antwoord: 1,
+        uitleg: "Antropocentrisme betekent dat de mens en het aardse leven centraal staan, in plaats van God en het leven na de dood zoals in de Middeleeuwen.",
+      },
+      {
+        id: "ren-3",
+        niveau: "reproductie",
+        vraag: "Wie waren de twee belangrijkste voormannen van de Hervorming die in de les worden genoemd?",
+        opties: ["Erasmus en Vondel", "Luther en Calvijn", "Willem van Oranje en Filips II", "Bredero en Hooft"],
+        antwoord: 1,
+        uitleg: "Maarten Luther verzette zich met zijn stellingen (1517) tegen misstanden in de kerk, Johannes Calvijn verdedigde daarna de gedachte van predestinatie en werd de grondlegger van het Calvinisme.",
+      },
+      {
+        id: "ren-4",
+        niveau: "reproductie",
+        vraag: "Welke naam vormen de eerste letters van de vijftien coupletten van het Wilhelmus?",
+        opties: ["JOOST VAN VONDEL", "PRINS VAN ORANJE", "WILLEM VAN NASSOV", "KONING VAN HISPAENGIEN"],
+        antwoord: 2,
+        uitleg: "De eerste letters van elk couplet vormen samen de naam WILLEM VAN NASSOV. Dit heet een acrostichon.",
+      },
+      {
+        id: "ren-5",
+        niveau: "reproductie",
+        vraag: "Uit welke twee delen bestaat een sonnet, en hoeveel regels heeft elk deel?",
+        opties: [
+          "Een kwatrijn van 8 regels en een terzet van 6 regels",
+          "Een octaaf van 8 regels (2 kwatrijnen) en een sextet van 6 regels (2 terzetten)",
+          "Twee terzetten van 7 regels elk",
+          "Een inleiding van 4 regels en een slot van 10 regels",
+        ],
+        antwoord: 1,
+        uitleg: "Een sonnet bestaat uit een octaaf van 8 regels (opgebouwd uit 2 kwatrijnen) en een sextet van 6 regels (opgebouwd uit 2 terzetten), samen 14 regels.",
+      },
+      {
+        id: "ren-6",
+        niveau: "toepassing",
+        vraag: "In het Wilhelmus zweert Willem van Oranje trouw aan de koning van Spanje, terwijl hij tegelijk tegen hem strijdt. Hoe verklaar je deze schijnbare tegenstelling?",
+        opties: [
+          "Willem van Oranje was het echt oneens met zichzelf",
+          "Openlijk verzet tegen de vorst was gevaarlijk, dus koos de dichter voor een voorzichtige, gelaagde toon",
+          "Het Wilhelmus is per ongeluk verkeerd overgeleverd",
+          "De tegenstelling was een grap van de dichter",
+        ],
+        antwoord: 1,
+        uitleg: "In de tijd van het Wilhelmus was openlijk verzet tegen de vorst gevaarlijk. De gelaagde, voorzichtige toon van het lied past bij die politieke context.",
+      },
+      {
+        id: "ren-7",
+        niveau: "toepassing",
+        vraag: "Wat is het verschil tussen het middeleeuwse mensbeeld en het Renaissance-mensbeeld?",
+        opties: [
+          "In de Middeleeuwen was de mens gericht op God en het hiernamaals, in de Renaissance op het leven op aarde en het hier en nu",
+          "In de Middeleeuwen was er geen religie, in de Renaissance wel",
+          "In de Renaissance verdween de belangstelling voor de klassieke oudheid juist",
+          "Er is geen verschil, beide perioden hadden hetzelfde mensbeeld",
+        ],
+        antwoord: 0,
+        uitleg: "Het middeleeuwse mensbeeld is theocentrisch (gericht op God), het Renaissance-mensbeeld is antropocentrisch (gericht op de mens en het aardse leven).",
+      },
+      {
+        id: "ren-8",
+        niveau: "toepassing",
+        vraag: "In het sonnet van Huygens klaagt de dichter in het octaaf dat hij zijn overleden vrouw niet kan bereiken, en verlangt hij in het sextet naar de dood om bij haar te zijn. Hoe noem je deze omslag?",
+        opties: ["Een acrostichon", "Een volta", "Een cesuur", "Een rederijkersvers"],
+        antwoord: 1,
+        uitleg: "De wending in toon of gedachte tussen het octaaf en het sextet van een sonnet heet de volta.",
+      },
+      {
+        id: "ren-9",
+        niveau: "inzicht",
+        vraag: "Waarom is het passend dat schrijvers vanaf 1550 een politieke rol gaan spelen, in plaats van vooral religieuze of ridderlijke teksten te schrijven zoals in de Middeleeuwen?",
+        opties: [
+          "Omdat literatuur toen pas werd uitgevonden",
+          "Omdat het antropocentrische wereldbeeld en de politieke strijd om de Nederlandse onafhankelijkheid schrijvers uitnodigden om zich met het aardse leven en de actualiteit bezig te houden, in plaats van uitsluitend met het hiernamaals",
+          "Omdat de kerk dat verplicht stelde",
+          "Omdat er geen andere onderwerpen meer waren",
+        ],
+        antwoord: 1,
+        uitleg: "Het antropocentrische wereldbeeld van de Renaissance past bij een grotere betrokkenheid van schrijvers bij het aardse leven, inclusief de politiek. In combinatie met de strijd om de Nederlandse onafhankelijkheid verklaart dit waarom propagandaliteratuur voor Willem van Oranje in deze periode ontstaat.",
+      },
+      {
+        id: "ren-10",
+        niveau: "inzicht",
+        vraag: "Waarom kun je het Wilhelmus zien als een typisch voorbeeld van hoe politiek en literatuur in de zestiende eeuw met elkaar verweven waren?",
+        opties: [
+          "Omdat het lied nergens over de politieke situatie gaat",
+          "Omdat het lied een politiek standpunt (de opstand tegen Spanje) verpakt in een literaire vorm (acrostichon, perspectief van Willem van Oranje) om het volk te overtuigen zonder openlijk gevaar te lopen",
+          "Omdat het Wilhelmus geen enkele literaire kenmerken heeft",
+          "Omdat het lied pas honderd jaar later geschreven werd",
+        ],
+        antwoord: 1,
+        uitleg: "Het Wilhelmus combineert een politieke boodschap (rechtvaardiging van het verzet tegen Filips II) met literaire middelen (het acrostichon, het perspectief van Willem van Oranje). Dit past bij de trend dat schrijvers vanaf 1550 literatuur inzetten voor politieke doeleinden.",
+      },
+    ],
+  },
+  {
+    slug: "literatuur-gysbrecht-sinnebeelden",
+    titel: "Gysbrecht van Aemstel en Sinne- en minnebeelden",
+    ondertitel: "Vondels treurspel en het embleem van Jacob Cats",
+    niveau: "vwo",
+    vaardigheid: "Literatuur",
+    emoji: "🎭",
+    leerdoelen: [
+      "Je kunt de ontstaansgeschiedenis en opbouw van Gysbrecht van Aemstel uitleggen",
+      "Je herkent een alexandrijn en kunt de functie van de reien benoemen",
+      "Je kunt de opbouw van een embleem (pictura, motto, subscriptio) toelichten",
+      "Je weet wie Jacob Cats was en wat Sinne- en minnebeelden inhoudt",
+    ],
+    uitleg: `## Gysbrecht van Aemstel
+
+Joost van den Vondel schrijft Gysbrecht van Aemstel in opdracht van de nieuwe Amsterdamse Schouwburg, die op 3 januari 1638 met dit stuk wordt geopend. Het treurspel speelt zich af tijdens de kerstnacht van het jaar 1300, wanneer de stad Amsterdam na een jaar belegering alsnog door verraad wordt ingenomen. Gijsbreght van Aemstel probeert zijn stad, zijn familie en de bisschop tevergeefs te redden.
+
+### De versvorm: de alexandrijn
+
+Het stuk is geschreven in alexandrijnen: versregels van twaalf lettergrepen met een vaste cesuur (rustpunt) na de zesde lettergreep. Deze strakke, statige versvorm past bij het plechtige karakter van een treurspel.
+
+### De reien
+
+Vondel gebruikt daarnaast reien: koorzangen die de handeling onderbreken en er commentaar op geven, net als in de klassieke Griekse tragedie. De reien staan los van de handeling zelf en verwoorden vaak het standpunt van het volk.
+
+### Geschiedenis en universeel verhaal
+
+Vondel baseert zijn verhaal los op de middeleeuwse geschiedenis van Amsterdam, maar de nadruk ligt niet op historische precisie. Vondel gebruikt de val van Amsterdam om een universeel verhaal te vertellen over trouw, verraad en vaderlandsliefde, met duidelijke verwijzingen naar de val van Troje.
+
+## Sinne- en minnebeelden
+
+Jacob Cats publiceert in 1618 een bundel liefdesemblemen onder de Latijnse titel Silenus Alcibiadis, sive Proteus. Vanaf 1627 verschijnt de bundel onder de bekendere Nederlandse titel Sinne- en minnebeelden.
+
+### De opbouw van een embleem
+
+Een embleem bestaat uit drie onderdelen die je altijd samen leest:
+
+- Pictura: de afbeelding of prent
+- Motto: een kort opschrift, vaak in het Latijn, dat de kern van de boodschap samenvat
+- Subscriptio: het bijschrift dat de afbeelding en het motto uitlegt
+
+Bij Cats krijgt elke pictura vaak drie subscriptio's: een amoureuze uitleg voor jonge geliefden, een maatschappelijke uitleg en een religieuze uitleg. Zo spreekt hetzelfde beeld verschillende lezers en levensfasen aan. Het woord "zinnebeeld" voor embleem is bedacht door Roemer Visscher.
+
+Wil je oefenen of heb je een vraag? Gebruik de AI-tutor op deze pagina.`,
+    vragen: [
+      {
+        id: "gys-1",
+        niveau: "reproductie",
+        vraag: "In welk jaar en bij welke gelegenheid ging Gysbrecht van Aemstel in premiere?",
+        opties: [
+          "1618, bij de opening van het Klarissenklooster",
+          "1638, bij de opening van de nieuwe Amsterdamse Schouwburg",
+          "1648, bij het einde van de Tachtigjarige Oorlog",
+          "1700, bij de invoering van het ABN",
+        ],
+        antwoord: 1,
+        uitleg: "Gysbrecht van Aemstel ging op 3 januari 1638 in premiere bij de opening van de nieuwe Amsterdamse Schouwburg.",
+      },
+      {
+        id: "gys-2",
+        niveau: "reproductie",
+        vraag: "In welk jaar speelt het verhaal van de Gysbrecht zich af?",
+        opties: ["1300", "1500", "1618", "1638"],
+        antwoord: 0,
+        uitleg: "Het verhaal speelt zich af in het jaar 1300, tijdens de kerstnacht waarin Amsterdam door verraad wordt ingenomen.",
+      },
+      {
+        id: "gys-3",
+        niveau: "reproductie",
+        vraag: "Wat is een alexandrijn?",
+        opties: [
+          "Een versregel van twaalf lettergrepen met een vaste cesuur na de zesde lettergreep",
+          "Een koorzang die de handeling onderbreekt",
+          "Een gedicht met veertien regels",
+          "Een acrostichon waarbij de eerste letters een naam vormen",
+        ],
+        antwoord: 0,
+        uitleg: "Een alexandrijn is een versregel van twaalf lettergrepen met een vast rustpunt (cesuur) na de zesde lettergreep.",
+      },
+      {
+        id: "gys-4",
+        niveau: "reproductie",
+        vraag: "Wat is de functie van de reien in Gysbrecht van Aemstel?",
+        opties: [
+          "Ze vertellen het hoofdverhaal vanuit het perspectief van Gijsbreght",
+          "Ze onderbreken de handeling en geven er commentaar op, vaak vanuit het standpunt van het volk",
+          "Ze vormen de titel van het stuk",
+          "Ze bevatten de historische bronnen die Vondel gebruikte",
+        ],
+        antwoord: 1,
+        uitleg: "De reien zijn koorzangen die los van de handeling staan en er commentaar op geven, net als in de klassieke Griekse tragedie.",
+      },
+      {
+        id: "gys-5",
+        niveau: "reproductie",
+        vraag: "Uit welke drie onderdelen bestaat een embleem?",
+        opties: [
+          "Titel, inleiding en conclusie",
+          "Pictura, motto en subscriptio",
+          "Octaaf, sextet en volta",
+          "These, argument en weerlegging",
+        ],
+        antwoord: 1,
+        uitleg: "Een embleem bestaat uit de pictura (afbeelding), het motto (kort opschrift) en de subscriptio (verklarend bijschrift).",
+      },
+      {
+        id: "gys-6",
+        niveau: "toepassing",
+        vraag: "Vondel baseert de Gysbrecht los op de middeleeuwse geschiedenis van Amsterdam, maar wijkt af van historische precisie. Waarom is dat geen probleem voor het stuk?",
+        opties: [
+          "Omdat Vondel de geschiedenis niet kende",
+          "Omdat Vondel de val van Amsterdam gebruikt om een universeel verhaal te vertellen over trouw, verraad en vaderlandsliefde",
+          "Omdat het publiek in 1638 geen interesse had in geschiedenis",
+          "Omdat het stuk eigenlijk over Troje gaat en niet over Amsterdam",
+        ],
+        antwoord: 1,
+        uitleg: "Vondel gebruikt de historische gebeurtenis als kapstok voor een universeel thema. Historische precisie is daarbij minder belangrijk dan de morele en emotionele lading van het verhaal.",
+      },
+      {
+        id: "gys-7",
+        niveau: "toepassing",
+        vraag: "Waarom schreef Jacob Cats bij een pictura soms drie verschillende subscriptio's?",
+        opties: [
+          "Omdat hij niet kon kiezen welke uitleg het beste was",
+          "Omdat hij daarmee hetzelfde beeld liet spreken tot verschillende lezers en levensfasen: amoureus, maatschappelijk en religieus",
+          "Omdat de drukker per ongeluk drie versies afdrukte",
+          "Omdat het motto anders niet paste bij de afbeelding",
+        ],
+        antwoord: 1,
+        uitleg: "Door drie subscriptio's (amoureus, maatschappelijk, religieus) te geven bij dezelfde pictura, spreekt Cats verschillende lezers en levensfasen aan met hetzelfde beeld.",
+      },
+      {
+        id: "gys-8",
+        niveau: "toepassing",
+        vraag: "De titel van Cats' bundel was oorspronkelijk Latijn (Silenus Alcibiadis, sive Proteus) en werd later vernederlandst tot Sinne- en minnebeelden. Wat zegt dit over de tijd waarin de bundel verscheen?",
+        opties: [
+          "Dat er in 1618 nog geen Nederlandse taal bestond",
+          "Dat geleerde, klassieke titels en volkstalige titels naast elkaar bestonden, passend bij een tijd waarin de klassieke oudheid gewaardeerd werd maar de volkstaal ook aan belang won",
+          "Dat het boek in 1627 helemaal herschreven werd",
+          "Dat Cats spijt kreeg van zijn eerste titel"
+        ],
+        antwoord: 1,
+        uitleg: "De verschuiving van een Latijnse naar een Nederlandse titel past bij de Renaissance, waarin klassieke geleerdheid gewaardeerd werd, maar waarin de volkstaal (mede door de Hervorming) ook steeds meer terrein won.",
+      },
+      {
+        id: "gys-9",
+        niveau: "inzicht",
+        vraag: "Zowel de Gysbrecht als het Wilhelmus gebruiken een historische of politieke gebeurtenis als basis voor een literair werk. Wat is het belangrijkste verschil in hun functie?",
+        opties: [
+          "Er is geen verschil, beide teksten hebben precies dezelfde functie",
+          "Het Wilhelmus heeft een directe politieke functie (rechtvaardiging van de opstand), terwijl de Gysbrecht een universeel thema (trouw, verraad, vaderlandsliefde) verkent via een historisch verhaal, geschreven voor een culturele gelegenheid",
+          "De Gysbrecht is politiek, het Wilhelmus niet",
+          "Beide teksten zijn puur religieus van aard"
+        ],
+        antwoord: 1,
+        uitleg: "Het Wilhelmus is direct politiek: het rechtvaardigt de opstand tegen Spanje. De Gysbrecht is geschreven voor de opening van de Schouwburg en gebruikt geschiedenis als middel om een universeel thema te verkennen, niet om een actuele politieke boodschap te verkondigen.",
+      },
+      {
+        id: "gys-10",
+        niveau: "inzicht",
+        vraag: "Waarom is het waardevol om bij het lezen van de Gysbrecht en Sinne- en minnebeelden steeds de vorm (alexandrijn, rei, embleemstructuur) te koppelen aan de inhoud?",
+        opties: [
+          "Omdat vorm en inhoud niets met elkaar te maken hebben",
+          "Omdat de vaste vormen (zoals de alexandrijn of de driedeling van het embleem) een bewuste keuze van de auteur zijn die de boodschap versterken of ordenen, en die samenhang zichtbaar maakt hoe doordacht de tekst is opgebouwd",
+          "Omdat je anders de toets niet haalt",
+          "Omdat alleen de inhoud telt bij literatuuranalyse"
+        ],
+        antwoord: 1,
+        uitleg: "Vorm en inhoud werken in deze teksten nauw samen: de statige alexandrijn past bij het plechtige treurspel, de driedeling van het embleem structureert de les die Cats wil overbrengen. Het herkennen van die samenhang is de kern van een sterke literaire analyse.",
+      },
+    ],
+  },
+  {
     slug: "schrijfvaardigheid-betoog-4vwo",
     titel: "Een betoog schrijven",
     ondertitel: "Structuur, argumentatie en formulering voor 4 VWO",
