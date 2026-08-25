@@ -33,7 +33,7 @@ export const lessen: Les[] = [
     ondertitel: "Leer hoe je het doel van een tekst herkent",
     niveau: "havo",
     vaardigheid: "Leesvaardigheid",
-    emoji: "📖",
+    emoji: "",
     leerdoelen: [
       "Je kunt het doel van een tekst benoemen (informeren, overtuigen, instrueren, activeren)",
       "Je kunt tekstsoorten van elkaar onderscheiden",
@@ -88,7 +88,7 @@ Op het HAVO-examen wordt je gevraagd het tekstdoel te benoemen en te onderbouwen
     ondertitel: "Begrijp hoe alineas met elkaar samenhangen",
     niveau: "havo",
     vaardigheid: "Leesvaardigheid",
-    emoji: "🔗",
+    emoji: "",
     leerdoelen: [
       "Je kent de belangrijkste soorten signaalwoorden",
       "Je kunt het verband tussen twee alineas benoemen",
@@ -150,7 +150,7 @@ Bij de vraag 'welk verband heeft alinea X met alinea Y?' lees je altijd de laats
     ondertitel: "Leer welke vraagtypes er zijn en hoe je ze aanpakt",
     niveau: "havo",
     vaardigheid: "Leesvaardigheid",
-    emoji: "❓",
+    emoji: "",
     leerdoelen: [
       "Je kent de vijf belangrijkste vraagtypes op het CE leesvaardigheid",
       "Je weet hoe je elk vraagtype aanpakt",
@@ -205,7 +205,7 @@ Aanpak: Neem altijd een duidelijk standpunt in en onderbouw met tekstevidentiee.
     ondertitel: "Argumentatiestructuur, impliciete boodschappen en perspectief",
     niveau: "vwo",
     vaardigheid: "Leesvaardigheid",
-    emoji: "🔬",
+    emoji: "",
     leerdoelen: [
       "Je kunt de argumentatiestructuur van een complexe tekst in kaart brengen",
       "Je kunt impliciete boodschappen en veronderstellingen herkennen",
@@ -249,7 +249,7 @@ Retorische vraag, herhaling, contrast en opsomming zijn middelen om de lezer te 
     ondertitel: "Hoofd- en bijzaken onderscheiden in complexe teksten",
     niveau: "vwo",
     vaardigheid: "Leesvaardigheid",
-    emoji: "📝",
+    emoji: "",
     leerdoelen: [
       "Je kunt de hoofdgedachte van een complexe tekst formuleren",
       "Je kunt hoofd- en bijzaken van elkaar onderscheiden",
@@ -299,7 +299,7 @@ Valkuilen:
     ondertitel: "Leer hoe je een overtuigend betoog opbouwt",
     niveau: "havo",
     vaardigheid: "Schrijfvaardigheid",
-    emoji: "✍️",
+    emoji: "",
     leerdoelen: [
       "Je kent de structuur van een betoog",
       "Je kunt een helder standpunt formuleren",
@@ -368,7 +368,7 @@ Je wordt beoordeeld op:
     ondertitel: "Meerdere kanten belichten zonder een duidelijk standpunt",
     niveau: "beide",
     vaardigheid: "Schrijfvaardigheid",
-    emoji: "🔍",
+    emoji: "",
     leerdoelen: [
       "Je kent het verschil tussen een betoog en een beschouwing",
       "Je kunt een onderwerp van meerdere kanten belichten",
@@ -429,7 +429,7 @@ Gebruik distantietaal: *men kan stellen dat, sommigen beweren dat, anderen zijn 
     ondertitel: "Herken en gebruik verschillende argumentatietypen",
     niveau: "beide",
     vaardigheid: "Argumentatie",
-    emoji: "💬",
+    emoji: "",
     leerdoelen: [
       "Je kent de belangrijkste soorten argumenten",
       "Je kunt een argument classificeren",
@@ -484,7 +484,7 @@ Een sterk argument is:
     ondertitel: "Leer ondeugdelijke argumenten herkennen",
     niveau: "beide",
     vaardigheid: "Argumentatie",
-    emoji: "🚫",
+    emoji: "",
     leerdoelen: [
       "Je kent de meest voorkomende drogredenen",
       "Je kunt een drogreden herkennen in een tekst",
@@ -551,7 +551,7 @@ Als je een drogreden moet benoemen, geef dan altijd aan:
     ondertitel: "Thema, personages en vertelperspectief",
     niveau: "vwo",
     vaardigheid: "Literatuur",
-    emoji: "📚",
+    emoji: "",
     leerdoelen: [
       "Je kunt het thema van een roman benoemen en onderbouwen",
       "Je kunt een personage analyseren op karakter en ontwikkeling",
@@ -738,7 +738,7 @@ Hoe meer verbanden je ziet en kunt uitleggen, hoe hoger je cijfer.`,
     ondertitel: "Van Middeleeuwen tot de twintigste eeuw",
     niveau: "beide",
     vaardigheid: "Literatuur",
-    emoji: "🏛️",
+    emoji: "",
     leerdoelen: [
       "Je kent de belangrijkste literaire perioden en stromingen",
       "Je kunt een tekst plaatsen in een literaire stroming",
@@ -809,7 +809,7 @@ Experiment met vorm en taal. Invloed van Freud en de Eerste Wereldoorlog.
     ondertitel: "Historische context, mensbeeld en het oudste volkslied ter wereld",
     niveau: "vwo",
     vaardigheid: "Literatuur",
-    emoji: "🕰️",
+    emoji: "",
     leerdoelen: [
       "Je kunt uitleggen wat de Renaissance is en hoe het mensbeeld verandert ten opzichte van de Middeleeuwen",
       "Je kent de belangrijkste historische gebeurtenissen van de Nederlandse Renaissance en de vijf grote schrijvers",
@@ -1011,7 +1011,7 @@ Wil je oefenen of heb je een vraag? Gebruik de AI-tutor op deze pagina.`,
     ondertitel: "Vondels treurspel en het embleem van Jacob Cats",
     niveau: "vwo",
     vaardigheid: "Literatuur",
-    emoji: "🎭",
+    emoji: "",
     leerdoelen: [
       "Je kunt de ontstaansgeschiedenis en opbouw van Gysbrecht van Aemstel uitleggen",
       "Je herkent een alexandrijn en kunt de functie van de reien benoemen",
@@ -1183,7 +1183,7 @@ Wil je oefenen of heb je een vraag? Gebruik de AI-tutor op deze pagina.`,
     ondertitel: "Structuur, argumentatie en formulering voor 4 VWO",
     niveau: "vwo",
     vaardigheid: "Schrijfvaardigheid",
-    emoji: "✍️",
+    emoji: "",
     leerdoelen: [
       "Je kent de structuur van een betoog en kunt die toepassen in een tekst van 400-500 woorden",
       "Je kunt drie argumentatietypen herkennen en zelf gebruiken",
@@ -1406,7 +1406,7 @@ Controleer voor het inleveren:
     ondertitel: "Schrijvend denken: van ervaring naar grotere gedachte (5 VWO)",
     niveau: "vwo",
     vaardigheid: "Schrijfvaardigheid",
-    emoji: "🪶",
+    emoji: "",
     leerdoelen: [
       "Je weet wat een essay is en hoe het verschilt van een betoog en een verslag",
       "Je kunt vanuit een eigen ervaring of twijfel naar een grotere gedachte werken",
@@ -1514,7 +1514,7 @@ Klaar om zelf te beginnen? Pak je reader erbij voor het stappenplan, of vraag de
     ondertitel: "Je profielwerkstuk toegankelijk maken voor een breed publiek (6 VWO)",
     niveau: "vwo",
     vaardigheid: "Schrijfvaardigheid",
-    emoji: "🔬",
+    emoji: "",
     leerdoelen: [
       "Je kent de kenmerken van een populairwetenschappelijk artikel: definitie, doel, publiek, inhoud en structuur, stijl en omvang",
       "Je herkent wat een sterk en een zwak populairwetenschappelijk artikel van elkaar onderscheidt",
@@ -1612,6 +1612,339 @@ Klaar om aan je eigen artikel te beginnen? Pak je informatieboekje erbij voor he
       { id: "pwa-8", niveau: "inzicht", vraag: "Beide voorbeeldteksten gebruiken dezelfde onderzoeksgegevens (62% van 120 leerlingen voelt zich moe). Waarom is voorbeeld 2 daarmee toch een sterker artikel dan voorbeeld 1?", opties: ["Omdat voorbeeld 2 andere, betere cijfers gebruikt", "Omdat dezelfde inhoud in voorbeeld 2 is herverpakt in een toegankelijke, actieve en beeldende vorm die bij het genre past, terwijl voorbeeld 1 de inhoud opsomt zoals in een verslag", "Omdat voorbeeld 2 langer is dan voorbeeld 1", "Omdat voorbeeld 1 feitelijk onjuiste informatie bevat"], antwoord: 1, uitleg: "Dit is de kern van het genre: dezelfde onderzoeksinhoud kan op heel verschillende manieren gepresenteerd worden. Voorbeeld 1 blijft dicht bij de opsommende, afstandelijke stijl van een verslag. Voorbeeld 2 herstructureert exact dezelfde informatie tot een tekst die past bij een breed, nieuwsgierig publiek. Dat herstructureren is precies de vaardigheid die dit schoolexamen toetst." },
     ],
   },
+  // =====================
+  // MONDELING
+  // =====================
+  {
+    slug: "mondeling-overtuigen-ethos-pathos-logos",
+    titel: "Overtuigen: ethos, pathos en logos",
+    ondertitel: "De drie middelen van een betogende voordracht (4 VWO)",
+    niveau: "beide",
+    vaardigheid: "Mondeling",
+    emoji: "",
+    leerdoelen: [
+      "Je kunt uitleggen wat een betogende voordracht onderscheidt van een geschreven betoog",
+      "Je kent de drie overtuigingsmiddelen ethos, pathos en logos en weet hoe je ze inzet",
+      "Je kunt in een voordracht van een ander herkennen welk overtuigingsmiddel wordt gebruikt",
+    ],
+    // youtubeId: "", // vul hier het id in van een YouTube-fragment (het stukje achter v= in de link)
+    uitleg: `## Overtuigen met je stem
+
+Op deze pagina leer je wat een betogende voordracht is en hoe je een publiek overtuigt met de drie middelen die Aristoteles ruim tweeduizend jaar geleden beschreef: ethos, pathos en logos. Die drie vormen nog steeds de basis van elk presentatieadvies dat je tegenkomt.
+
+### Wat is een betogende voordracht?
+
+Een betogende voordracht is een gesproken betoog. Je hebt een standpunt, je onderbouwt dat met argumenten en je wilt dat je publiek het na afloop met je eens is, of op zijn minst gaat twijfelen.
+
+Het verschil met een geschreven betoog zit niet in de inhoud, maar in het kanaal. Een lezer kan een moeilijke zin twee keer lezen, terugbladeren en pauzeren. Een luisteraar kan dat niet. Wat jij zegt, komt één keer voorbij en dan is het weg. Dat heeft drie gevolgen voor je tekst.
+
+**Je zinnen zijn korter.** Vijftien woorden is een goede bovengrens. Een zin met drie bijzinnen werkt op papier prima en in de lucht niet.
+
+**Je herhaalt bewust.** Wat je één keer zegt, is de helft van je publiek na twee minuten kwijt. Herhaling is bij spreken geen slordigheid maar een techniek.
+
+**Je maakt je structuur hoorbaar.** Je zegt hardop waar je bent: "Dat was mijn eerste punt. Mijn tweede punt gaat over geld."
+
+### Ethos: geloven ze jou?
+
+Ethos gaat over jou als spreker. Vindt je publiek je geloofwaardig, deskundig en betrouwbaar? Als het antwoord nee is, doet de rest er niet meer toe: dan luistert niemand naar je argumenten.
+
+Er bestaan twee soorten ethos. Het ethos dat je al hebt voordat je iets gezegd hebt, komt uit je positie of je ervaring. Een longarts die over roken spreekt, begint met een voorsprong. Het ethos dat je opbouwt tijdens het spreken, verdien je met de manier waarop je het doet.
+
+Zo bouw je ethos op:
+
+- Laat merken dat je je verdiept hebt. Noem waar je iets vandaan hebt: "Ik las in een onderzoek van het RIVM dat..."
+- Vertel kort waarom dit onderwerp jou raakt. Persoonlijke betrokkenheid maakt geloofwaardig.
+- Ga rechtop staan, sta stil en kijk je publiek aan. Wie wiebelt, lijkt te twijfelen aan zijn eigen verhaal.
+- Neem een tegenargument serieus voordat je het weerlegt. Wie de andere kant kent, komt eerlijk over.
+- Begin nooit met een excuus. "Ik heb me eigenlijk niet zo goed voorbereid" is de snelste manier om je ethos weg te geven.
+
+### Pathos: voelen ze iets?
+
+Pathos gaat over de emotie die je bij je publiek oproept: verontwaardiging, hoop, zorg, herkenning of trots. Mensen beslissen zelden op grond van cijfers alleen. Ze beslissen als ze iets voelen en zoeken daar daarna redenen bij.
+
+Zo roep je gevoel op:
+
+- Vertel over één mens in plaats van over duizend. Duizend slachtoffers is een getal; één jongen die zijn training mist, is een verhaal.
+- Gebruik beeldende taal. Zeg niet "de kosten stijgen", maar "de rekening op de keukentafel wordt elke maand dikker".
+- Spreek je publiek aan met jij of wij. Zo wordt het probleem van hen en niet alleen van jou.
+- Neem een pauze na een zin die aankomt. Zonder stilte kan een zin niet landen.
+- Overdrijf niet. Te veel pathos werkt averechts: je publiek voelt zich bespeeld en je verliest juist ethos.
+
+### Logos: klopt het?
+
+Logos gaat over je redenering: je argumenten, je bewijs en de logische volgorde daarvan. Ook in een voordracht waarin het vooral om je presentatie draait, valt een verhaal zonder logos uit elkaar. Je publiek moet de stap van argument naar standpunt kunnen volgen.
+
+Zo versterk je je logos:
+
+- Maak elke denkstap hardop. Sla niets over omdat het voor jou vanzelfsprekend is.
+- Gebruik hooguit twee of drie cijfers en rond ze af. "Bijna een op de drie" onthoudt een luisteraar; "31,4 procent" niet.
+- Koppel elk argument expliciet terug aan je standpunt: "En daarom moet die regel verdwijnen."
+- Weerleg één tegenargument. Dat maakt je verhaal meteen sterker en eerlijker.
+
+### De balans
+
+De drie middelen versterken elkaar. Alleen logos maakt je verhaal droog en vergeetbaar. Alleen pathos maakt je verhaal zwaar en ongeloofwaardig. Alleen ethos maakt je aardig maar leeg.
+
+Loop voor je gaat spreken je hele voordracht na en vraag je per onderdeel af welk middel je daar inzet. Zitten alle drie erin? En heeft er niet één de overhand?
+
+Wil je oefenen of heb je een vraag? Gebruik de AI-tutor op deze pagina.`,
+    vragen: [
+      { id: "mep-1", niveau: "reproductie", vraag: "Waar gaat ethos over?", opties: ["De emotie die je bij je publiek oproept", "De geloofwaardigheid en betrouwbaarheid van jou als spreker", "De logische opbouw van je argumenten", "De hoeveelheid cijfers die je noemt"], antwoord: 1, uitleg: "Ethos gaat over jou als spreker: vindt je publiek je geloofwaardig, deskundig en betrouwbaar? Zonder ethos luistert niemand naar je argumenten." },
+      { id: "mep-2", niveau: "reproductie", vraag: "Wat is het verschil tussen extrinsiek en intrinsiek ethos?", opties: ["Extrinsiek ethos heb je al voordat je spreekt (positie, ervaring), intrinsiek ethos bouw je op tijdens het spreken", "Extrinsiek ethos gaat over je stem, intrinsiek ethos over je houding", "Extrinsiek ethos is altijd sterker dan intrinsiek ethos", "Er is geen verschil, het zijn synoniemen"], antwoord: 0, uitleg: "Het ethos dat je al hebt voordat je iets zegt, komt uit je positie of ervaring. Het ethos dat je tijdens het spreken opbouwt, verdien je met de manier waarop je het doet." },
+      { id: "mep-3", niveau: "reproductie", vraag: "Wat is een goede vuistregel voor de lengte van je zinnen in een gesproken tekst?", opties: ["Zo lang mogelijk, want dat klinkt deskundig", "Maximaal vijftien woorden", "Precies vijf woorden", "De lengte maakt niet uit, alleen de inhoud telt"], antwoord: 1, uitleg: "Een luisteraar kan niet terugbladeren. Vijftien woorden is een goede bovengrens: langere zinnen met meerdere bijzinnen werken op papier wel en in de lucht niet." },
+      { id: "mep-4", niveau: "reproductie", vraag: "Waarom is herhaling in een gesproken betoog geen slordigheid?", opties: ["Omdat je dan sneller je spreektijd volmaakt", "Omdat wat je één keer zegt, bij de helft van je publiek na twee minuten alweer weg is", "Omdat herhaling verplicht is in elke voordracht", "Omdat je publiek anders denkt dat je je tekst vergeten bent"], antwoord: 1, uitleg: "Bij spreken is herhaling een techniek en geen fout. Een luisteraar kan niet terugbladeren, dus wat belangrijk is, moet vaker langskomen." },
+      { id: "mep-5", niveau: "toepassing", vraag: "Een spreker zegt: 'Als verpleegkundige zie ik elke dienst wat slaaptekort met mensen doet.' Welk middel zet hij hier vooral in?", opties: ["Ethos", "Pathos", "Logos", "Geen van drieën"], antwoord: 0, uitleg: "De spreker laat zien dat hij uit ervaring spreekt en verstand van zaken heeft. Dat versterkt zijn geloofwaardigheid, dus zijn ethos." },
+      { id: "mep-6", niveau: "toepassing", vraag: "Welke zin doet het sterkst een beroep op pathos?", opties: ["Jaarlijks melden zich achttienduizend jongeren bij de huisarts met slaapklachten.", "Onderzoek toont een verband aan tussen schermgebruik en slaapduur.", "Sanne is zestien en valt al maanden pas om drie uur 's nachts in slaap.", "Slaaptekort heeft aantoonbaar negatieve effecten op de concentratie."], antwoord: 2, uitleg: "Eén concrete mens met een naam roept gevoel op. Getallen en onderzoeksresultaten spreken vooral de rede aan en horen dus bij logos." },
+      { id: "mep-7", niveau: "toepassing", vraag: "Een spreker begint met: 'Sorry, ik heb hier eigenlijk weinig aan gedaan.' Wat is hiervan het effect?", opties: ["Het publiek vindt het sympathiek en luistert juist beter", "De spreker geeft direct zijn ethos weg en verliest geloofwaardigheid", "Het versterkt de pathos van de voordracht", "Het maakt de logos van het betoog sterker"], antwoord: 1, uitleg: "Een excuus vooraf ondermijnt meteen je geloofwaardigheid. Je publiek weet dan al dat het niet veel hoeft te verwachten en luistert met minder aandacht." },
+      { id: "mep-8", niveau: "toepassing", vraag: "Een spreker noemt in vijf minuten elf verschillende percentages met twee cijfers achter de komma. Wat is hiervan het probleem?", opties: ["Cijfers horen niet thuis in een voordracht", "Een luisteraar kan zoveel precieze getallen niet onthouden; twee of drie afgeronde cijfers werken sterker", "Percentages horen bij pathos en niet bij logos", "Het probleem is dat de spreker geen bron noemt"], antwoord: 1, uitleg: "Logos wordt niet sterker van méér cijfers. Een luisteraar onthoudt 'bijna een op de drie' wel en '31,4 procent' niet. Twee of drie afgeronde cijfers zijn genoeg." },
+      { id: "mep-9", niveau: "inzicht", vraag: "Waarom kan te veel pathos je juist ethos kosten?", opties: ["Omdat pathos en ethos elkaar altijd uitsluiten", "Omdat een publiek dat zich bespeeld voelt, gaat twijfelen aan de oprechtheid van de spreker", "Omdat pathos alleen werkt bij een groot publiek", "Omdat je bij pathos geen bronnen mag noemen"], antwoord: 1, uitleg: "Emotie werkt zolang die geloofwaardig is. Zodra een publiek doorheeft dat het bespeeld wordt, verliest de spreker precies datgene waar ethos om draait: betrouwbaarheid." },
+      { id: "mep-10", niveau: "inzicht", vraag: "Een spreker heeft ijzersterke argumenten en betrouwbare cijfers, maar het publiek raakt niet overtuigd. Wat is de meest waarschijnlijke verklaring?", opties: ["De argumenten waren toch niet goed genoeg", "De voordracht leunde alleen op logos: zonder ethos gelooft het publiek de spreker niet en zonder pathos raakt het verhaal ze niet", "Het publiek was te dom voor de inhoud", "De spreker had meer cijfers moeten noemen"], antwoord: 1, uitleg: "De drie middelen versterken elkaar. Alleen logos maakt een verhaal droog en vergeetbaar: het publiek kan de redenering volgen, maar wordt niet geraakt en heeft geen reden om de spreker te vertrouwen." },
+    ],
+  },
+  {
+    slug: "mondeling-opbouw-en-taal-voordracht",
+    titel: "Opbouw en taal van een voordracht",
+    ondertitel: "Structuur, stijlfiguren en spreektechnieken (4 VWO)",
+    niveau: "beide",
+    vaardigheid: "Mondeling",
+    emoji: "",
+    leerdoelen: [
+      "Je kunt een voordracht opbouwen volgens een herkenbaar model",
+      "Je kunt een opening en een slot schrijven die blijven hangen",
+      "Je kunt stijlfiguren, beeldspraak en spreektechnieken bewust inzetten in gesproken tekst",
+    ],
+    uitleg: `## Opbouw en taal van een voordracht
+
+Een luisteraar die de weg kwijtraakt, haakt af en komt niet meer terug. Op deze pagina leer je hoe je je voordracht zo opbouwt dat je publiek je moeiteloos kan volgen, en hoe je met taal zorgt dat je woorden blijven hangen.
+
+### Het basismodel: opening, kern, slot
+
+De simpelste indeling is ook de sterkste. Je opening trekt de aandacht, maakt duidelijk waar je het over gaat en zegt wat je standpunt is. In je kern behandel je drie punten. Je slot vat samen en eindigt met een zin die blijft hangen.
+
+Belangrijk is dat je aan het begin kort aankondigt wat er komt: "Ik heb drie redenen: geld, gezondheid en eerlijkheid." Je publiek weet dan hoe lang het nog duurt en waar het is. Dat werkt hetzelfde als bij het journaal, waar eerst de koppen komen en pas daarna de items.
+
+### Model 1: probleem, oorzaak, oplossing, toekomstbeeld
+
+Dit model werkt goed als je iets wilt veranderen. Je laat eerst zien dat er iets mis is, je legt uit waardoor dat komt, je noemt de oplossing en je schetst hoe het eruitziet als die oplossing er is. Veel politieke toespraken zijn zo gebouwd, omdat het publiek dan met een beeld van de toekomst achterblijft in plaats van met een klacht.
+
+### Model 2: de vijf stappen van Monroe
+
+De Amerikaanse retoricadocent Alan H. Monroe ontwikkelde in de jaren dertig een reeks van vijf stappen die tot vandaag in presentatietrainingen wordt gebruikt.
+
+**Aandacht.** Je trekt de aandacht met een verhaal, een vraag of een verrassend feit.
+
+**Behoefte.** Je laat zien dat er een probleem is dat je publiek raakt.
+
+**Oplossing.** Je legt uit wat er moet gebeuren en waarom dat werkt.
+
+**Verbeelding.** Je laat je publiek voelen hoe het is als je oplossing er wel of juist niet komt.
+
+**Actie.** Je zegt concreet wat je publiek moet doen of vinden.
+
+Dit model is bijna één op één te gebruiken voor een voordracht van vijf minuten: ongeveer dertig seconden voor de eerste stap, drie minuten voor de tweede en derde, één minuut voor de vierde en twintig seconden voor de laatste.
+
+### De volgorde van je argumenten
+
+Zet je sterkste argument niet in het midden. Daar verdwijnt het. Je hebt twee goede opties: je begint met je sterkste argument, zodat je publiek meteen mee is, of je bewaart het voor het laatst, zodat het als laatste blijft hangen. Het zwakste argument staat dan in het midden.
+
+Vaak is het nog beter om je zwakste argument gewoon te schrappen. Drie sterke punten overtuigen meer dan vier waarvan er één rammelt.
+
+### Openingen die werken
+
+**Eén mens.** "Vorige week zag ik een meisje van vijftien op de fiets huilen omdat..." Concreet, dichtbij en meteen beeld.
+
+**Een prikkelende vraag.** "Hoeveel uur van je leven heb jij al in de wachtstand gezeten?"
+
+**Een verrassend cijfer.** "Eén op de vier leerlingen in dit lokaal slaapt structureel te kort."
+
+**Een scherp contrast.** "We kunnen kiezen voor gemak, of we kunnen kiezen voor eerlijkheid."
+
+Wat niet werkt: beginnen met "Mijn presentatie gaat over..." of met een verontschuldiging. Je hebt twintig seconden om de aandacht te pakken en die gooi je daarmee weg.
+
+### Sloten die werken
+
+- Grijp terug op je opening. Ben je begonnen met dat meisje op de fiets, eindig dan met haar. Je verhaal wordt dan een rondje in plaats van een lijst.
+- Eindig met je kernboodschap in één korte zin.
+- Roep op tot iets concreets: iets doen, iets laten of iets anders gaan vinden.
+- Bedank niet en zeg niet "dat was het". Je laatste zin moet je laatste zin zijn.
+
+### Stijlfiguren en beeldspraak
+
+Stijlfiguren zijn taalmiddelen waarmee je iets treffender of sterker uitdrukt. Bij beeldspraak noem je iets niet direct, maar via een beeld. In een gesproken tekst zijn ze extra nuttig: ze maken een abstract argument in één zin concreet en ze geven je tekst ritme, waardoor hij makkelijker te onthouden is, voor jou en voor je publiek.
+
+**Retorische vraag.** Een vraag waarop je geen antwoord verwacht. "Wie van jullie heeft ooit gekozen om moe wakker te worden?" Je publiek beantwoordt de vraag in stilte en denkt dus mee.
+
+**Herhaling.** Hetzelfde woord of dezelfde zin bewust meerdere keren gebruiken. "Wij kunnen het. Wij moeten het. Wij gaan het doen." Herhaling maakt een zin makkelijk te onthouden en geeft ritme.
+
+**Drieslag.** Drie woorden of zinsdelen achter elkaar. "Sneller, goedkoper en eerlijker." Drie voelt af; twee klinkt karig en vier klinkt als een lijstje.
+
+**Tegenstelling.** Twee tegengestelde begrippen naast elkaar. "We kunnen kiezen voor gemak of voor gezondheid." De keuze wordt scherp en je publiek moet positie kiezen.
+
+**Hyperbool.** Een sterke overdrijving. "Ik heb duizend keer gezegd dat dit niet werkt." Trekt aandacht, maar gebruik hem hooguit één keer en niet bij een ernstig onderwerp.
+
+**Eufemisme.** Iets onaangenaams verzachtend zeggen. "Er is een verschil van inzicht ontstaan" in plaats van "er is ruzie". Handig als je een gevoelig punt aansnijdt zonder je publiek te verliezen.
+
+**Metafoor.** Je noemt alleen het beeld, niet het onderwerp zelf. "Onze school is een snelkookpan." In één woord vat je een heel argument samen en het beeld blijft de rest van je voordracht hangen.
+
+**Personificatie.** Iets levenloos krijgt menselijke eigenschappen. "De wachtlijst groeit en groeit en laat niemand met rust." Maakt een abstract probleem voelbaar.
+
+Let op de dosering. Drie goed gekozen middelen in vijf minuten is precies genoeg. Tien is te veel: dan gaat je publiek naar je taal luisteren in plaats van naar je verhaal.
+
+### Tien spreektechnieken
+
+Deze tien technieken zie je bij vrijwel elke geoefende spreker terug. Ze zijn gebaseerd op een analyse van de spreekstijl van Barack Obama door Tom Jessen. Kies er drie of vier uit die bij jou passen; alle tien tegelijk gaat niet werken.
+
+**1. Begin bij één mens.** Open met een concrete persoon of situatie in plaats van met een probleemstelling.
+
+**2. Kies één ankerwoord.** Zoek één woord dat je hele verhaal draagt en schrijf dat bovenaan je spreekplan. Controleer bij elk onderdeel of het je ankerwoord versterkt. Zo niet: schrappen.
+
+**3. Gebruik het wij-frame.** Vervang een aantal keren "ik" door "wij" of "samen", maar alleen waar er echt een gedeeld belang is. Anders klinkt het hol.
+
+**4. Herhaal bewust.** Bedenk één korte zin van vier tot zes woorden die je kern draagt en spreek die drie keer uit: één keer rustig, één keer met meer tempo en de laatste keer met een pauze erna.
+
+**5. Spreek in waarden.** Verbind je voorstel aan een waarde die bijna iedereen deelt: eerlijkheid, vrijheid, veiligheid. Voeg één zin toe die begint met "Dit gaat uiteindelijk over..." en maak het daarna meteen concreet.
+
+**6. Werk met contrast.** Zet naast elkaar wat er nu is en wat er mogelijk is: "We kunnen kiezen voor X, of we kiezen voor Y." Maak X en Y zo concreet mogelijk.
+
+**7. Bouw op naar een toekomstbeeld.** Geef je voordracht een ruggengraat: eerst het probleem scherp, dan de keuze, dan de oplossing en tot slot het beeld van hoe het dan is.
+
+**8. Speel met timing.** Zet achter je belangrijkste zin van elk onderdeel het woord pauze en tel dan echt twee tellen. Een pauze voelt voor jou eindeloos en voor je publiek precies goed.
+
+**9. Lok een reactie uit.** Bouw één moment in waarop je publiek in gedachten antwoordt, ook zonder dat je een vraag stelt: "Als jij dit herkent" (pauze) "dan weet je waarom dit moet veranderen."
+
+**10. Oefen drie onderdelen apart.** Oefen niet elke keer je hele voordracht, maar drie stukken: je eerste twintig seconden, je herhaalzin en je laatste twee zinnen. Wat moeiteloos klinkt, is bijna altijd strak voorbereid.
+
+---
+
+## Twee voorbeelden om te vergelijken
+
+Hieronder staan twee spreekteksten van ongeveer een minuut over hetzelfde onderwerp: de begintijd van de schooldag. Je leest van allebei de opening en het slot. De een is sterker dan de ander. Lees ze allebei en bedenk zelf wat goed is en wat beter kan. Het antwoord staat er niet bij; dat bespreek je in de les of leg je voor aan de AI-tutor.
+
+### Voorbeeld 1: Later beginnen
+
+**Opening.** Goedemiddag allemaal. Mijn presentatie gaat over de schooltijden en dan met name over het feit dat de school volgens mij te vroeg begint, want ik heb daar zelf ook last van en ik denk dat heel veel leerlingen daar last van hebben, dus daarom heb ik dit onderwerp gekozen. Ik ga jullie vertellen waarom de school later zou moeten beginnen. Ik heb daar drie argumenten voor gevonden op internet, die ik nu ga behandelen. Sorry als ik een beetje snel praat, ik vind dit best spannend.
+
+**Slot.** Dus dat waren mijn drie argumenten over waarom de school later moet beginnen. Ik hoop dat jullie het een interessant onderwerp vonden en dat jullie er misschien anders over denken dan hiervoor. Er is natuurlijk ook wel iets voor te zeggen om gewoon vroeg te beginnen, maar goed. Dat was het, bedankt voor het luisteren. Zijn er nog vragen?
+
+**Denk na:** Hoe lang duurt het voordat je weet waar het over gaat? Zoek de zinnen op die uit meer dan vijftien woorden bestaan: wat gebeurt er als je ze hardop leest? Welk overtuigingsmiddel geeft de spreker in de eerste vier zinnen weg? En hoe eindigt deze voordracht?
+
+### Voorbeeld 2: Half acht
+
+**Opening.** Half acht. Ergens in deze stad gaat een wekker af, en in het brein van de leerling die eronder ligt gebeurt er precies niets. Niet omdat ze lui is. Omdat haar biologische klok pas over twee uur denkt dat het ochtend is. Wij noemen dat gedrag. De wetenschap noemt het slaapfase-vertraging. Ik wil jullie vandaag laten zien dat wij elke ochtend om acht uur les geven aan mensen die biologisch gezien nog liggen te slapen. Ik heb daar drie redenen voor: de klok, de cijfers en de eerlijkheid.
+
+**Slot.** Terug naar die wekker van half acht. Hij zal blijven afgaan, want de school begint nu eenmaal ergens. Maar we kunnen kiezen. We kunnen kiezen voor een rooster dat past bij de gebouwen. Of we kiezen voor een rooster dat past bij de leerlingen. Ik weet welke keuze ik zou maken. (pauze) Vraag jezelf morgenochtend om half acht af welke keuze jij maakt.
+
+**Denk na:** Waar zie je een drieslag, een contrast en een herhaling terug? Welk ankerwoord draagt deze voordracht? Wat doet de laatste zin met jou als luisteraar, vergeleken met "Dat was het, bedankt voor het luisteren"?
+
+Wil je oefenen of heb je een vraag? Gebruik de AI-tutor op deze pagina.`,
+    vragen: [
+      { id: "mob-1", niveau: "reproductie", vraag: "Waarom kondig je aan het begin van je voordracht kort aan welke punten je gaat behandelen?", opties: ["Omdat je dan sneller klaar bent", "Omdat je publiek dan weet waar het is en hoe lang het nog duurt", "Omdat het verplicht is bij elke presentatie", "Omdat je dan geen slot meer hoeft te maken"], antwoord: 1, uitleg: "Door je punten aan te kondigen geef je je publiek houvast, net zoals het journaal eerst de koppen noemt. Een luisteraar die weet waar hij is, haakt minder snel af." },
+      { id: "mob-2", niveau: "reproductie", vraag: "Uit welke vijf stappen bestaat het model van Monroe?", opties: ["Inleiding, kern, slot, vragen, afsluiting", "Aandacht, behoefte, oplossing, verbeelding, actie", "Ethos, pathos, logos, structuur, stijl", "Probleem, oorzaak, gevolg, oplossing, conclusie"], antwoord: 1, uitleg: "Alan H. Monroe beschreef de stappen aandacht, behoefte, oplossing, verbeelding en actie. Het model is bijna één op één te gebruiken voor een voordracht van vijf minuten." },
+      { id: "mob-3", niveau: "reproductie", vraag: "Wat is een drieslag?", opties: ["Drie keer dezelfde zin herhalen", "Drie woorden of zinsdelen achter elkaar zetten", "Een voordracht van drie minuten", "Drie argumenten in willekeurige volgorde"], antwoord: 1, uitleg: "Bij een drieslag zet je drie woorden of zinsdelen achter elkaar, zoals 'sneller, goedkoper en eerlijker'. Drie voelt af: twee klinkt karig en vier klinkt als een lijstje." },
+      { id: "mob-4", niveau: "reproductie", vraag: "Hoeveel bewust gekozen stijlfiguren zijn in een voordracht van vijf minuten ongeveer genoeg?", opties: ["Eén", "Ongeveer drie", "Minstens tien", "Zoveel mogelijk"], antwoord: 1, uitleg: "Drie goed gekozen middelen zijn precies genoeg. Bij tien gaat je publiek naar je taal luisteren in plaats van naar je verhaal." },
+      { id: "mob-5", niveau: "toepassing", vraag: "Welke opening is het sterkst voor een voordracht over wachtlijsten in de jeugdzorg?", opties: ["Mijn presentatie gaat over de wachtlijsten in de jeugdzorg.", "Ik ga jullie drie argumenten geven over de jeugdzorg.", "Tien maanden. Zo lang wachtte Jasper, veertien jaar, op zijn eerste gesprek.", "De jeugdzorg is een onderwerp waar veel over te zeggen valt."], antwoord: 2, uitleg: "Eén concreet mens met een naam en een getal schetst meteen een beeld en trekt de aandacht. De andere openingen kondigen alleen aan en zeggen inhoudelijk niets." },
+      { id: "mob-6", niveau: "toepassing", vraag: "Een spreker zet zijn sterkste argument als tweede van de drie. Waarom is dat geen slimme keuze?", opties: ["Omdat het sterkste argument altijd als eerste moet", "Omdat een publiek vooral het begin en het einde onthoudt, waardoor het middelste argument het minst blijft hangen", "Omdat je dan geen weerlegging meer kunt geven", "Omdat drie argumenten sowieso te weinig is"], antwoord: 1, uitleg: "Wat in het midden staat, verdwijnt het snelst. Zet je sterkste argument daarom vooraan, zodat je publiek meteen mee is, of achteraan, zodat het blijft hangen." },
+      { id: "mob-7", niveau: "toepassing", vraag: "Welke zin bevat een personificatie?", opties: ["Onze school is een snelkookpan.", "De wachtlijst groeit en groeit en laat niemand met rust.", "Wie van jullie kiest er ooit voor om moe wakker te worden?", "Sneller, goedkoper en eerlijker."], antwoord: 1, uitleg: "De wachtlijst krijgt hier een menselijke eigenschap: hij laat iemand met rust of juist niet. Optie A is een metafoor, C een retorische vraag en D een drieslag." },
+      { id: "mob-8", niveau: "toepassing", vraag: "Een spreker eindigt met: 'Nou, dat was het. Bedankt voor het luisteren. Zijn er nog vragen?' Wat gaat hier mis?", opties: ["Er mag helemaal niet bedankt worden in een voordracht", "De laatste zin, die het langst blijft hangen, wordt gebruikt voor iets nietszeggends in plaats van voor de kernboodschap", "Het slot is te lang", "De spreker had eerst een samenvatting moeten geven"], antwoord: 1, uitleg: "Je laatste zin is de zin die je publiek meeneemt. Die verspil je niet aan 'dat was het'. Eindig met je kernboodschap, een oproep of een terugkoppeling naar je opening." },
+      { id: "mob-9", niveau: "inzicht", vraag: "Waarom werkt het vaak sterk om aan het slot terug te grijpen op het beeld waarmee je je voordracht opende?", opties: ["Omdat je dan minder nieuwe tekst hoeft te bedenken", "Omdat je verhaal daarmee een rondje wordt in plaats van een lijst, waardoor je publiek het als één geheel onthoudt", "Omdat herhaling verplicht is in een betogende voordracht", "Omdat het publiek de opening anders vergeten is"], antwoord: 1, uitleg: "Door terug te keren naar je opening maak je van losse argumenten één samenhangend verhaal. Je publiek herkent het beeld en ervaart het slot als een afronding in plaats van als een stopmoment." },
+      { id: "mob-10", niveau: "inzicht", vraag: "Waarom raadt de theorie aan om je zwakste argument liever te schrappen dan het in het midden te zetten?", opties: ["Omdat drie argumenten het maximum is dat mag", "Omdat een zwak argument je hele betoog aanvechtbaar maakt: je publiek onthoudt de zwakste schakel en gaat daaraan twijfelen", "Omdat een voordracht anders te lang wordt", "Omdat het middelste argument altijd het belangrijkste is"], antwoord: 1, uitleg: "Overtuigingskracht wordt niet bepaald door het aantal argumenten maar door hun kwaliteit. Een rammelend argument geeft je publiek een aangrijpingspunt om je hele verhaal in twijfel te trekken." },
+    ],
+  },
+  {
+    slug: "mondeling-presenteren-stem-lichaamstaal",
+    titel: "Presenteren: stem, lichaamstaal en uit het hoofd",
+    ondertitel: "Zonder papier voor de klas staan (4 VWO)",
+    niveau: "beide",
+    vaardigheid: "Mondeling",
+    emoji: "",
+    leerdoelen: [
+      "Je kunt volume, tempo, articulatie, klemtoon en pauzes bewust inzetten",
+      "Je weet hoe je houding, handgebaren en oogcontact gebruikt om geloofwaardig over te komen",
+      "Je kunt een voordracht zonder papier houden met behulp van een geheugenroute",
+    ],
+    uitleg: `## Presenteren: stem, lichaamstaal en uit het hoofd
+
+Een goede tekst is nog geen goede voordracht. Op deze pagina leer je hoe je klinkt, hoe je staat en hoe je een verhaal van vijf minuten zonder papier houdt.
+
+### Stemgebruik
+
+Je stem is je belangrijkste instrument. Vijf zaken bepalen hoe je klinkt.
+
+**Volume.** Spreek tegen de achterste rij, niet tegen de voorste. Als je denkt dat je te hard praat, is het meestal precies goed.
+
+**Tempo.** Bij spanning gaan bijna alle sprekers te snel praten. Varieer bewust: sneller bij een verhaal, langzamer bij een argument of een cijfer.
+
+**Articulatie.** Maak je woorden af. Vooral de laatste lettergreep van een zin verdwijnt vaak in het niets.
+
+**Klemtoon.** Kies per zin één woord dat de nadruk krijgt. Onderstreep dat woord in je spreekplan.
+
+**Pauze.** Dit is je krachtigste middel en tegelijk het middel dat het minst wordt gebruikt. Een pauze geeft je publiek tijd om te verwerken en geeft jou tijd om na te denken.
+
+### Wat je doet met "eh"
+
+Zeg je vaak "eh"? Dan gebruik je een stopwoord op het moment dat je nadenkt. De oplossing is niet harder je best doen om het niet te zeggen, maar op die plek bewust te zwijgen.
+
+Zwijgen voelt ongemakkelijk, maar klinkt zelfverzekerd. Een pauze van twee seconden duurt voor jou een eeuwigheid en voor je publiek precies lang genoeg om je vorige zin te laten bezinken.
+
+Wil je weten hoe vaak je het doet? Laat een klasgenoot tellen terwijl je twee minuten spreekt, of neem jezelf op. Bijna iedereen schrikt van het aantal, en bijna iedereen halveert het al bij de tweede poging.
+
+### Lichaamstaal en oogcontact
+
+Je publiek ziet je voordat het je hoort. Houding, handen en blik bepalen mede of je geloofwaardig overkomt, en dat is precies waar ethos over gaat.
+
+- Sta rechtop met je voeten op schouderbreedte. Leun nergens op en houd je nergens aan vast.
+- Houd je handen zichtbaar. Handen die je niet ziet, wekken wantrouwen.
+- Gebruik gebaren die iets betekenen: drie vingers als je drie punten aankondigt, handen uit elkaar als je iets groots beschrijft. Wapperen zonder betekenis leidt af.
+- Verdeel je oogcontact over drie zones: links, midden en rechts. Blijf per zone ongeveer één zin hangen en kijk dan een andere kant op. Kijk niet alleen naar je docent.
+- Neem voordat je begint drie seconden de tijd. Ga staan, kijk rond en begin dan pas. Die drie seconden maken meer indruk dan je eerste drie zinnen.
+- Beweeg niet mee op de maat van je zenuwen: niet wiegen, niet met een pen spelen, niet aan je mouw trekken.
+
+### Achter een spreekgestoelte
+
+Sta je achter een spreekgestoelte, dan gelden een paar extra dingen. Leun er niet op en klem je er niet aan vast. Houd je handen boven het blad, zodat je publiek ze kan zien. Kijk niet naar beneden maar vooruit: alles wat je naar beneden zegt, komt niet aan.
+
+### Spreken zonder papier
+
+Leer je tekst niet woord voor woord uit je hoofd. Dat is riskant: raak je één zin kwijt, dan valt je hele verhaal stil. Leer in plaats daarvan de volgorde van je onderdelen, en leer alleen je opening, je herhaalzin en je slot woordelijk. De rest formuleer je ter plekke, en dat klinkt bovendien natuurlijker.
+
+### De geheugenroute
+
+Een geheugenroute helpt je om die volgorde te onthouden. Zo maak je er een.
+
+- Kies een route die je uit je hoofd kent, bijvoorbeeld van je voordeur naar je slaapkamer, of van de fietsenstalling naar je lokaal.
+- Kies op die route vijf vaste punten in een vaste volgorde: voordeur, kapstok, keukentafel, trap, bureau.
+- Koppel aan elk punt één onderdeel van je voordracht: opening, argument 1, argument 2, argument 3, slot.
+- Bedenk per punt een concreet beeld dat aan dat onderdeel vastzit. Hoe gekker het beeld, hoe beter je het onthoudt.
+- Loop de route in gedachten drie keer af, eerst met je aantekeningen erbij en daarna zonder.
+
+Deze techniek is ruim tweeduizend jaar oud en wordt nog steeds gebruikt door mensen die lange teksten uit hun hoofd moeten kennen. De reden dat hij werkt: je hersenen onthouden ruimtes en beelden veel beter dan losse woorden.
+
+### Als je vastloopt
+
+Stop. Adem. Zeg hardop waar je bent: "Mijn tweede punt gaat over geld." Meestal komt de rest dan vanzelf terug.
+
+Een stilte van twee seconden valt je publiek nauwelijks op. Wat wel opvalt, is paniek. Blijf staan waar je staat en ga verder waar je gebleven was.
+
+### Zenuwen
+
+Zenuwen betekenen niet dat je het niet kunt. Ze betekenen dat het je iets kan schelen. Vrijwel elke geoefende spreker is voor de eerste zin nog steeds gespannen; het verschil is dat die weet dat het na twintig seconden zakt.
+
+Drie dingen die echt helpen: sta al even stil voordat je begint, oefen je eerste twintig seconden zo vaak dat ze er vanzelf uit komen, en spreek je verhaal minstens één keer hardop uit tegen een echt mens. In je hoofd oefenen telt niet.
+
+Wil je oefenen of heb je een vraag? Gebruik de AI-tutor op deze pagina.`,
+    vragen: [
+      { id: "mpr-1", niveau: "reproductie", vraag: "Welke vijf aspecten bepalen samen je stemgebruik?", opties: ["Volume, tempo, articulatie, klemtoon en pauze", "Houding, handen, blik, tempo en volume", "Opening, kern, slot, pauze en klemtoon", "Ethos, pathos, logos, tempo en volume"], antwoord: 0, uitleg: "Volume, tempo, articulatie, klemtoon en pauze bepalen hoe je klinkt. De pauze is daarvan het krachtigste en het minst gebruikte middel." },
+      { id: "mpr-2", niveau: "reproductie", vraag: "Wat is het advies als je merkt dat je vaak 'eh' zegt?", opties: ["Sneller praten, dan valt het minder op", "Op die plek bewust zwijgen in plaats van harder je best doen om het niet te zeggen", "Je tekst woord voor woord uit je hoofd leren", "Een spiekbriefje meenemen"], antwoord: 1, uitleg: "'Eh' is een stopwoord dat je gebruikt terwijl je nadenkt. Vervang het door stilte: dat voelt ongemakkelijk maar klinkt zelfverzekerd." },
+      { id: "mpr-3", niveau: "reproductie", vraag: "Hoe verdeel je je oogcontact over de zaal?", opties: ["Je kijkt vooral naar je docent, want die beoordeelt je", "Je kijkt naar één vast punt achterin, dan raak je niet afgeleid", "Je verdeelt je blik over drie zones (links, midden, rechts) en blijft per zone ongeveer één zin hangen", "Je kijkt de hele tijd rond, zo snel mogelijk"], antwoord: 2, uitleg: "Door je blik over drie zones te verdelen en per zone ongeveer één zin te blijven, betrek je de hele zaal zonder onrustig heen en weer te kijken." },
+      { id: "mpr-4", niveau: "reproductie", vraag: "Welke drie onderdelen van je voordracht leer je wel woordelijk uit je hoofd?", opties: ["De hele tekst, want anders val je stil", "Je opening, je herhaalzin en je slot", "Alleen je drie argumenten", "Alleen je cijfers en je bronnen"], antwoord: 1, uitleg: "De rest formuleer je ter plekke, wat natuurlijker klinkt. Alleen je opening, je herhaalzin en je slot ken je woordelijk, omdat die het meest bepalen wat blijft hangen." },
+      { id: "mpr-5", niveau: "toepassing", vraag: "Een spreker praat zo snel dat het publiek hem nauwelijks kan volgen. Wat is hiervan meestal de oorzaak?", opties: ["Hij heeft te veel geoefend", "Spanning: bij zenuwen gaan bijna alle sprekers sneller praten", "Hij heeft een te korte tekst", "Zijn tekst bevat te weinig cijfers"], antwoord: 1, uitleg: "Snel praten is een van de meest voorkomende gevolgen van spanning. Bewust variëren in tempo en pauzes inbouwen helpt daartegen." },
+      { id: "mpr-6", niveau: "toepassing", vraag: "Een leerling houdt zich tijdens haar hele voordracht met beide handen vast aan het spreekgestoelte. Waarom is dat ongunstig?", opties: ["Omdat het spreekgestoelte dan kan omvallen", "Omdat haar handen niet meer zichtbaar en bruikbaar zijn voor gebaren, wat haar geloofwaardigheid en dus haar ethos verzwakt", "Omdat je alleen zonder spreekgestoelte mag presenteren", "Omdat ze dan te hard gaat praten"], antwoord: 1, uitleg: "Handen die je niet ziet of die zich ergens aan vastklampen, verraden spanning en maken functionele gebaren onmogelijk. Je publiek leest dat af als onzekerheid." },
+      { id: "mpr-7", niveau: "toepassing", vraag: "Je maakt een geheugenroute voor een voordracht met een opening, drie argumenten en een slot. Hoeveel vaste punten kies je op je route?", opties: ["Drie", "Vijf", "Tien", "Net zoveel als je zinnen"], antwoord: 1, uitleg: "Je koppelt aan elk punt één onderdeel: opening, argument 1, argument 2, argument 3 en slot. Dat zijn er vijf. Je onthoudt de volgorde, niet de woorden." },
+      { id: "mpr-8", niveau: "toepassing", vraag: "Een spreker raakt halverwege de draad kwijt. Wat kan hij het beste doen?", opties: ["Snel doorpraten over iets anders, dan valt het niet op", "Stoppen, ademen en hardop benoemen bij welk onderdeel hij is", "Zijn excuses aanbieden en opnieuw beginnen", "Vragen of iemand in de zaal hem kan helpen"], antwoord: 1, uitleg: "Door hardop te zeggen waar je bent ('mijn tweede punt gaat over geld') komt de rest meestal vanzelf terug. Een stilte van twee seconden valt nauwelijks op; paniek wel." },
+      { id: "mpr-9", niveau: "inzicht", vraag: "Waarom is een geheugenroute betrouwbaarder dan je tekst woord voor woord uit je hoofd leren?", opties: ["Omdat je dan minder hoeft te oefenen", "Omdat je de volgorde onthoudt in plaats van losse woorden: raak je één formulering kwijt, dan weet je nog steeds waar je bent en kun je verder", "Omdat een geheugenroute sneller aan te leren is", "Omdat je dan geen opening en slot meer nodig hebt"], antwoord: 1, uitleg: "Bij woordelijk leren is elke zin een schakel: valt er één weg, dan valt de ketting stil. Een geheugenroute koppelt je onderdelen aan beelden en plekken, waardoor je altijd terug kunt vinden waar je was." },
+      { id: "mpr-10", niveau: "inzicht", vraag: "Waarom telt in je hoofd oefenen niet als echt oefenen?", opties: ["Omdat je in je hoofd sneller denkt dan je praat en je zo je stem, tempo, pauzes en ademhaling niet traint", "Omdat je in je hoofd de tekst niet goed onthoudt", "Omdat je dan geen feedback krijgt op je inhoud", "Omdat het niet is toegestaan bij de voorbereiding"], antwoord: 0, uitleg: "Presenteren is een lichamelijke vaardigheid. Alleen door hardop te spreken merk je waar je adem tekortkomt, waar je te snel gaat en welke zin in de lucht niet werkt. Dat kun je in gedachten niet oefenen." },
+    ],
+  },
 ];
 
 export function getLes(slug: string): Les | undefined {
@@ -1627,10 +1960,10 @@ export function getLessenVoorVaardigheid(vaardigheid: string): Les[] {
 }
 
 export const vaardigheden = [
-  { naam: "Leesvaardigheid", emoji: "📖", slug: "leesvaardigheid", beschrijving: "Tekstdoelen, signaalwoorden, vraagtypes" },
-  { naam: "Schrijfvaardigheid", emoji: "✍️", slug: "schrijfvaardigheid", beschrijving: "Betoog, beschouwing, uiteenzetting" },
-  { naam: "Argumentatie", emoji: "💬", slug: "argumentatie", beschrijving: "Soorten argumenten, drogredenen, Toulmin" },
-  { naam: "Literatuur", emoji: "📚", slug: "literatuur", beschrijving: "Literaire analyse, stromingen, leesdossier" },
-  { naam: "Mondeling", emoji: "🎤", slug: "mondeling", beschrijving: "Presenteren, debatteren, boekgesprek" },
-  { naam: "Werken met AI", emoji: "🤖", slug: "ai", beschrijving: "AI slim inzetten bij Nederlands" },
+  { naam: "Leesvaardigheid", emoji: "", slug: "leesvaardigheid", beschrijving: "Tekstdoelen, signaalwoorden, vraagtypes" },
+  { naam: "Schrijfvaardigheid", emoji: "", slug: "schrijfvaardigheid", beschrijving: "Betoog, beschouwing, uiteenzetting" },
+  { naam: "Argumentatie", emoji: "", slug: "argumentatie", beschrijving: "Soorten argumenten, drogredenen, Toulmin" },
+  { naam: "Literatuur", emoji: "", slug: "literatuur", beschrijving: "Literaire analyse, stromingen, leesdossier" },
+  { naam: "Mondeling", emoji: "", slug: "mondeling", beschrijving: "Presenteren, debatteren, boekgesprek" },
+  { naam: "Werken met AI", emoji: "", slug: "ai", beschrijving: "AI slim inzetten bij Nederlands" },
 ];
